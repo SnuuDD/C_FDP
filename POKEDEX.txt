@@ -1,0 +1,912 @@
+ 1 	Bulbasaur 	HP: 45	Ataque: 49	Defensa: 49	Ataq. Esp: 65	Def. Esp: 65	Velocidad: 45
+ 2 	Ivysaur 	HP: 60	Ataque: 62	Defensa: 63	Ataq. Esp: 80	Def. Esp: 80	Velocidad: 60
+ 3 	Venusaur 	HP: 80	Ataque: 82	Defensa: 83	Ataq. Esp: 100	Def. Esp: 100	Velocidad: 80
+ 3 	Venusaur (Mega Venusaur) 	HP: 80	Ataque: 100	Defensa: 123	Ataq. Esp: 122	Def. Esp: 120	Velocidad: 80
+ 4 	Charmander 	HP: 39	Ataque: 52	Defensa: 43	Ataq. Esp: 60	Def. Esp: 50	Velocidad: 65
+ 5 	Charmeleon 	HP: 58	Ataque: 64	Defensa: 58	Ataq. Esp: 80	Def. Esp: 65	Velocidad: 80
+ 6 	Charizard 	HP: 78	Ataque: 84	Defensa: 78	Ataq. Esp: 109	Def. Esp: 85	Velocidad: 100
+ 6 	Charizard (Mega Charizard X) 	HP: 78	Ataque: 130	Defensa: 111	Ataq. Esp: 130	Def. Esp: 85	Velocidad: 100
+ 6 	Charizard (Mega Charizard Y) 	HP: 78	Ataque: 104	Defensa: 78	Ataq. Esp: 159	Def. Esp: 115	Velocidad: 100
+ 7 	Squirtle 	HP: 44	Ataque: 48	Defensa: 65	Ataq. Esp: 50	Def. Esp: 64	Velocidad: 43
+ 8 	Wartortle 	HP: 59	Ataque: 63	Defensa: 80	Ataq. Esp: 65	Def. Esp: 80	Velocidad: 58
+ 9 	Blastoise 	HP: 79	Ataque: 83	Defensa: 100	Ataq. Esp: 85	Def. Esp: 105	Velocidad: 78
+ 9 	Blastoise (Mega Blastoise) 	HP: 79	Ataque: 103	Defensa: 120	Ataq. Esp: 135	Def. Esp: 115	Velocidad: 78
+ 10 	Caterpie 	HP: 45	Ataque: 30	Defensa: 35	Ataq. Esp: 20	Def. Esp: 20	Velocidad: 45
+ 11 	Metapod 	HP: 50	Ataque: 20	Defensa: 55	Ataq. Esp: 25	Def. Esp: 25	Velocidad: 30
+ 12 	Butterfree 	HP: 60	Ataque: 45	Defensa: 50	Ataq. Esp: 90	Def. Esp: 80	Velocidad: 70
+ 13 	Weedle 	HP: 40	Ataque: 35	Defensa: 30	Ataq. Esp: 20	Def. Esp: 20	Velocidad: 50
+ 14 	Kakuna 	HP: 45	Ataque: 25	Defensa: 50	Ataq. Esp: 25	Def. Esp: 25	Velocidad: 35
+ 15 	Beedrill 	HP: 65	Ataque: 90	Defensa: 40	Ataq. Esp: 45	Def. Esp: 80	Velocidad: 75
+ 15 	Beedrill (Mega Beedrill) 	HP: 65	Ataque: 150	Defensa: 40	Ataq. Esp: 15	Def. Esp: 80	Velocidad: 145
+ 16 	Pidgey 	HP: 40	Ataque: 45	Defensa: 40	Ataq. Esp: 35	Def. Esp: 35	Velocidad: 56
+ 17 	Pidgeotto 	HP: 63	Ataque: 60	Defensa: 55	Ataq. Esp: 50	Def. Esp: 50	Velocidad: 71
+ 18 	Pidgeot 	HP: 83	Ataque: 80	Defensa: 75	Ataq. Esp: 70	Def. Esp: 70	Velocidad: 101
+ 18 	Pidgeot (Mega Pidgeot) 	HP: 83	Ataque: 80	Defensa: 80	Ataq. Esp: 135	Def. Esp: 80	Velocidad: 121
+ 19 	Rattata 	HP: 30	Ataque: 56	Defensa: 35	Ataq. Esp: 25	Def. Esp: 35	Velocidad: 72
+ 19 	Rattata (Alolan Rattata) 	HP: 30	Ataque: 56	Defensa: 35	Ataq. Esp: 25	Def. Esp: 35	Velocidad: 72
+ 20 	Raticate 	HP: 55	Ataque: 81	Defensa: 60	Ataq. Esp: 50	Def. Esp: 70	Velocidad: 97
+ 20 	Raticate (Alolan Raticate) 	HP: 75	Ataque: 71	Defensa: 70	Ataq. Esp: 40	Def. Esp: 80	Velocidad: 77
+ 21 	Spearow 	HP: 40	Ataque: 60	Defensa: 30	Ataq. Esp: 31	Def. Esp: 31	Velocidad: 70
+ 22 	Fearow 	HP: 65	Ataque: 90	Defensa: 65	Ataq. Esp: 61	Def. Esp: 61	Velocidad: 100
+ 23 	Ekans 	HP: 35	Ataque: 60	Defensa: 44	Ataq. Esp: 40	Def. Esp: 54	Velocidad: 55
+ 24 	Arbok 	HP: 60	Ataque: 95	Defensa: 69	Ataq. Esp: 65	Def. Esp: 79	Velocidad: 80
+ 25 	Pikachu 	HP: 35	Ataque: 55	Defensa: 40	Ataq. Esp: 50	Def. Esp: 50	Velocidad: 90
+ 26 	Raichu 	HP: 60	Ataque: 90	Defensa: 55	Ataq. Esp: 90	Def. Esp: 80	Velocidad: 110
+ 26 	Raichu (Alolan Raichu) 	HP: 60	Ataque: 85	Defensa: 50	Ataq. Esp: 95	Def. Esp: 85	Velocidad: 110
+ 27 	Sandshrew 	HP: 50	Ataque: 75	Defensa: 85	Ataq. Esp: 20	Def. Esp: 30	Velocidad: 40
+ 27 	Sandshrew (Alolan Sandshrew) 	HP: 50	Ataque: 75	Defensa: 90	Ataq. Esp: 10	Def. Esp: 35	Velocidad: 40
+ 28 	Sandslash 	HP: 75	Ataque: 100	Defensa: 110	Ataq. Esp: 45	Def. Esp: 55	Velocidad: 65
+ 28 	Sandslash (Alolan Sandslash) 	HP: 75	Ataque: 100	Defensa: 120	Ataq. Esp: 25	Def. Esp: 65	Velocidad: 65
+ 29 	Nidoran F 	HP: 55	Ataque: 47	Defensa: 52	Ataq. Esp: 40	Def. Esp: 40	Velocidad: 41
+ 30 	Nidorina 	HP: 70	Ataque: 62	Defensa: 67	Ataq. Esp: 55	Def. Esp: 55	Velocidad: 56
+ 31 	Nidoqueen 	HP: 90	Ataque: 92	Defensa: 87	Ataq. Esp: 75	Def. Esp: 85	Velocidad: 76
+ 32 	Nidoran M	HP: 46	Ataque: 57	Defensa: 40	Ataq. Esp: 40	Def. Esp: 40	Velocidad: 50
+ 33 	Nidorino 	HP: 61	Ataque: 72	Defensa: 57	Ataq. Esp: 55	Def. Esp: 55	Velocidad: 65
+ 34 	Nidoking 	HP: 81	Ataque: 102	Defensa: 77	Ataq. Esp: 85	Def. Esp: 75	Velocidad: 85
+ 35 	Clefairy 	HP: 70	Ataque: 45	Defensa: 48	Ataq. Esp: 60	Def. Esp: 65	Velocidad: 35
+ 36 	Clefable 	HP: 95	Ataque: 70	Defensa: 73	Ataq. Esp: 95	Def. Esp: 90	Velocidad: 60
+ 37 	Vulpix 	HP: 38	Ataque: 41	Defensa: 40	Ataq. Esp: 50	Def. Esp: 65	Velocidad: 65
+ 37 	Vulpix (Alolan Vulpix) 	HP: 38	Ataque: 41	Defensa: 40	Ataq. Esp: 50	Def. Esp: 65	Velocidad: 65
+ 38 	Ninetales 	HP: 73	Ataque: 76	Defensa: 75	Ataq. Esp: 81	Def. Esp: 100	Velocidad: 100
+ 38 	Ninetales (Alolan Ninetales) 	HP: 73	Ataque: 67	Defensa: 75	Ataq. Esp: 81	Def. Esp: 100	Velocidad: 109
+ 39 	Jigglypuff 	HP: 115	Ataque: 45	Defensa: 20	Ataq. Esp: 45	Def. Esp: 25	Velocidad: 20
+ 40 	Wigglytuff 	HP: 140	Ataque: 70	Defensa: 45	Ataq. Esp: 85	Def. Esp: 50	Velocidad: 45
+ 41 	Zubat 	HP: 40	Ataque: 45	Defensa: 35	Ataq. Esp: 30	Def. Esp: 40	Velocidad: 55
+ 42 	Golbat 	HP: 75	Ataque: 80	Defensa: 70	Ataq. Esp: 65	Def. Esp: 75	Velocidad: 90
+ 43 	Oddish 	HP: 45	Ataque: 50	Defensa: 55	Ataq. Esp: 75	Def. Esp: 65	Velocidad: 30
+ 44 	Gloom 	HP: 60	Ataque: 65	Defensa: 70	Ataq. Esp: 85	Def. Esp: 75	Velocidad: 40
+ 45 	Vileplume 	HP: 75	Ataque: 80	Defensa: 85	Ataq. Esp: 110	Def. Esp: 90	Velocidad: 50
+ 46 	Paras 	HP: 35	Ataque: 70	Defensa: 55	Ataq. Esp: 45	Def. Esp: 55	Velocidad: 25
+ 47 	Parasect 	HP: 60	Ataque: 95	Defensa: 80	Ataq. Esp: 60	Def. Esp: 80	Velocidad: 30
+ 48 	Venonat 	HP: 60	Ataque: 55	Defensa: 50	Ataq. Esp: 40	Def. Esp: 55	Velocidad: 45
+ 49 	Venomoth 	HP: 70	Ataque: 65	Defensa: 60	Ataq. Esp: 90	Def. Esp: 75	Velocidad: 90
+ 50 	Diglett 	HP: 10	Ataque: 55	Defensa: 25	Ataq. Esp: 35	Def. Esp: 45	Velocidad: 95
+ 50 	Diglett (Alolan Diglett) 	HP: 10	Ataque: 55	Defensa: 30	Ataq. Esp: 35	Def. Esp: 45	Velocidad: 90
+ 51 	Dugtrio 	HP: 35	Ataque: 100	Defensa: 50	Ataq. Esp: 50	Def. Esp: 70	Velocidad: 120
+ 51 	Dugtrio (Alolan Dugtrio) 	HP: 35	Ataque: 100	Defensa: 60	Ataq. Esp: 50	Def. Esp: 70	Velocidad: 110
+ 52 	Meowth 	HP: 40	Ataque: 45	Defensa: 35	Ataq. Esp: 40	Def. Esp: 40	Velocidad: 90
+ 52 	Meowth (Alolan Meowth) 	HP: 40	Ataque: 35	Defensa: 35	Ataq. Esp: 50	Def. Esp: 40	Velocidad: 90
+ 53 	Persian 	HP: 65	Ataque: 70	Defensa: 60	Ataq. Esp: 65	Def. Esp: 65	Velocidad: 115
+ 53 	Persian (Alolan Persian) 	HP: 65	Ataque: 60	Defensa: 60	Ataq. Esp: 75	Def. Esp: 65	Velocidad: 115
+ 54 	Psyduck 	HP: 50	Ataque: 52	Defensa: 48	Ataq. Esp: 65	Def. Esp: 50	Velocidad: 55
+ 55 	Golduck 	HP: 80	Ataque: 82	Defensa: 78	Ataq. Esp: 95	Def. Esp: 80	Velocidad: 85
+ 56 	Mankey 	HP: 40	Ataque: 80	Defensa: 35	Ataq. Esp: 35	Def. Esp: 45	Velocidad: 70
+ 57 	Primeape 	HP: 65	Ataque: 105	Defensa: 60	Ataq. Esp: 60	Def. Esp: 70	Velocidad: 95
+ 58 	Growlithe 	HP: 55	Ataque: 70	Defensa: 45	Ataq. Esp: 70	Def. Esp: 50	Velocidad: 60
+ 59 	Arcanine 	HP: 90	Ataque: 110	Defensa: 80	Ataq. Esp: 100	Def. Esp: 80	Velocidad: 95
+ 60 	Poliwag 	HP: 40	Ataque: 50	Defensa: 40	Ataq. Esp: 40	Def. Esp: 40	Velocidad: 90
+ 61 	Poliwhirl 	HP: 65	Ataque: 65	Defensa: 65	Ataq. Esp: 50	Def. Esp: 50	Velocidad: 90
+ 62 	Poliwrath 	HP: 90	Ataque: 95	Defensa: 95	Ataq. Esp: 70	Def. Esp: 90	Velocidad: 70
+ 63 	Abra 	HP: 25	Ataque: 20	Defensa: 15	Ataq. Esp: 105	Def. Esp: 55	Velocidad: 90
+ 64 	Kadabra 	HP: 40	Ataque: 35	Defensa: 30	Ataq. Esp: 120	Def. Esp: 70	Velocidad: 105
+ 65 	Alakazam 	HP: 55	Ataque: 50	Defensa: 45	Ataq. Esp: 135	Def. Esp: 95	Velocidad: 120
+ 65 	Alakazam (Mega Alakazam) 	HP: 55	Ataque: 50	Defensa: 65	Ataq. Esp: 175	Def. Esp: 105	Velocidad: 150
+ 66 	Machop 	HP: 70	Ataque: 80	Defensa: 50	Ataq. Esp: 35	Def. Esp: 35	Velocidad: 35
+ 67 	Machoke 	HP: 80	Ataque: 100	Defensa: 70	Ataq. Esp: 50	Def. Esp: 60	Velocidad: 45
+ 68 	Machamp 	HP: 90	Ataque: 130	Defensa: 80	Ataq. Esp: 65	Def. Esp: 85	Velocidad: 55
+ 69 	Bellsprout 	HP: 50	Ataque: 75	Defensa: 35	Ataq. Esp: 70	Def. Esp: 30	Velocidad: 40
+ 70 	Weepinbell 	HP: 65	Ataque: 90	Defensa: 50	Ataq. Esp: 85	Def. Esp: 45	Velocidad: 55
+ 71 	Victreebel 	HP: 80	Ataque: 105	Defensa: 65	Ataq. Esp: 100	Def. Esp: 70	Velocidad: 70
+ 72 	Tentacool 	HP: 40	Ataque: 40	Defensa: 35	Ataq. Esp: 50	Def. Esp: 100	Velocidad: 70
+ 73 	Tentacruel 	HP: 80	Ataque: 70	Defensa: 65	Ataq. Esp: 80	Def. Esp: 120	Velocidad: 100
+ 74 	Geodude 	HP: 40	Ataque: 80	Defensa: 100	Ataq. Esp: 30	Def. Esp: 30	Velocidad: 20
+ 74 	Geodude (Alolan Geodude) 	HP: 40	Ataque: 80	Defensa: 100	Ataq. Esp: 30	Def. Esp: 30	Velocidad: 20
+ 75 	Graveler 	HP: 55	Ataque: 95	Defensa: 115	Ataq. Esp: 45	Def. Esp: 45	Velocidad: 35
+ 75 	Graveler (Alolan Graveler) 	HP: 55	Ataque: 95	Defensa: 115	Ataq. Esp: 45	Def. Esp: 45	Velocidad: 35
+ 76 	Golem 	HP: 80	Ataque: 120	Defensa: 130	Ataq. Esp: 55	Def. Esp: 65	Velocidad: 45
+ 76 	Golem (Alolan Golem) 	HP: 80	Ataque: 120	Defensa: 130	Ataq. Esp: 55	Def. Esp: 65	Velocidad: 45
+ 77 	Ponyta 	HP: 50	Ataque: 85	Defensa: 55	Ataq. Esp: 65	Def. Esp: 65	Velocidad: 90
+ 78 	Rapidash 	HP: 65	Ataque: 100	Defensa: 70	Ataq. Esp: 80	Def. Esp: 80	Velocidad: 105
+ 79 	Slowpoke 	HP: 90	Ataque: 65	Defensa: 65	Ataq. Esp: 40	Def. Esp: 40	Velocidad: 15
+ 80 	Slowbro 	HP: 95	Ataque: 75	Defensa: 110	Ataq. Esp: 100	Def. Esp: 80	Velocidad: 30
+ 80 	Slowbro (Mega Slowbro) 	HP: 95	Ataque: 75	Defensa: 180	Ataq. Esp: 130	Def. Esp: 80	Velocidad: 30
+ 81 	Magnemite 	HP: 25	Ataque: 35	Defensa: 70	Ataq. Esp: 95	Def. Esp: 55	Velocidad: 45
+ 82 	Magneton 	HP: 50	Ataque: 60	Defensa: 95	Ataq. Esp: 120	Def. Esp: 70	Velocidad: 70
+ 83 	Farfetch'd 	HP: 52	Ataque: 90	Defensa: 55	Ataq. Esp: 58	Def. Esp: 62	Velocidad: 60
+ 84 	Doduo 	HP: 35	Ataque: 85	Defensa: 45	Ataq. Esp: 35	Def. Esp: 35	Velocidad: 75
+ 85 	Dodrio 	HP: 60	Ataque: 110	Defensa: 70	Ataq. Esp: 60	Def. Esp: 60	Velocidad: 110
+ 86 	Seel 	HP: 65	Ataque: 45	Defensa: 55	Ataq. Esp: 45	Def. Esp: 70	Velocidad: 45
+ 87 	Dewgong 	HP: 90	Ataque: 70	Defensa: 80	Ataq. Esp: 70	Def. Esp: 95	Velocidad: 70
+ 88 	Grimer 	HP: 80	Ataque: 80	Defensa: 50	Ataq. Esp: 40	Def. Esp: 50	Velocidad: 25
+ 88 	Grimer (Alolan Grimer) 	HP: 80	Ataque: 80	Defensa: 50	Ataq. Esp: 40	Def. Esp: 50	Velocidad: 25
+ 89 	Muk 	HP: 105	Ataque: 105	Defensa: 75	Ataq. Esp: 65	Def. Esp: 100	Velocidad: 50
+ 89 	Muk (Alolan Muk) 	HP: 105	Ataque: 105	Defensa: 75	Ataq. Esp: 65	Def. Esp: 100	Velocidad: 50
+ 90 	Shellder 	HP: 30	Ataque: 65	Defensa: 100	Ataq. Esp: 45	Def. Esp: 25	Velocidad: 40
+ 91 	Cloyster 	HP: 50	Ataque: 95	Defensa: 180	Ataq. Esp: 85	Def. Esp: 45	Velocidad: 70
+ 92 	Gastly 	HP: 30	Ataque: 35	Defensa: 30	Ataq. Esp: 100	Def. Esp: 35	Velocidad: 80
+ 93 	Haunter 	HP: 45	Ataque: 50	Defensa: 45	Ataq. Esp: 115	Def. Esp: 55	Velocidad: 95
+ 94 	Gengar 	HP: 60	Ataque: 65	Defensa: 60	Ataq. Esp: 130	Def. Esp: 75	Velocidad: 110
+ 94 	Gengar (Mega Gengar) 	HP: 60	Ataque: 65	Defensa: 80	Ataq. Esp: 170	Def. Esp: 95	Velocidad: 130
+ 95 	Onix 	HP: 35	Ataque: 45	Defensa: 160	Ataq. Esp: 30	Def. Esp: 45	Velocidad: 70
+ 96 	Drowzee 	HP: 60	Ataque: 48	Defensa: 45	Ataq. Esp: 43	Def. Esp: 90	Velocidad: 42
+ 97 	Hypno 	HP: 85	Ataque: 73	Defensa: 70	Ataq. Esp: 73	Def. Esp: 115	Velocidad: 67
+ 98 	Krabby 	HP: 30	Ataque: 105	Defensa: 90	Ataq. Esp: 25	Def. Esp: 25	Velocidad: 50
+ 99 	Kingler 	HP: 55	Ataque: 130	Defensa: 115	Ataq. Esp: 50	Def. Esp: 50	Velocidad: 75
+ 100 	Voltorb 	HP: 40	Ataque: 30	Defensa: 50	Ataq. Esp: 55	Def. Esp: 55	Velocidad: 100
+ 101 	Electrode 	HP: 60	Ataque: 50	Defensa: 70	Ataq. Esp: 80	Def. Esp: 80	Velocidad: 150
+ 102 	Exeggcute 	HP: 60	Ataque: 40	Defensa: 80	Ataq. Esp: 60	Def. Esp: 45	Velocidad: 40
+ 103 	Exeggutor 	HP: 95	Ataque: 95	Defensa: 85	Ataq. Esp: 125	Def. Esp: 75	Velocidad: 55
+ 103 	Exeggutor (Alolan Exeggutor) 	HP: 95	Ataque: 105	Defensa: 85	Ataq. Esp: 125	Def. Esp: 75	Velocidad: 45
+ 104 	Cubone 	HP: 50	Ataque: 50	Defensa: 95	Ataq. Esp: 40	Def. Esp: 50	Velocidad: 35
+ 105 	Marowak 	HP: 60	Ataque: 80	Defensa: 110	Ataq. Esp: 50	Def. Esp: 80	Velocidad: 45
+ 105 	Marowak (Alolan Marowak) 	HP: 60	Ataque: 80	Defensa: 110	Ataq. Esp: 50	Def. Esp: 80	Velocidad: 45
+ 106 	Hitmonlee 	HP: 50	Ataque: 120	Defensa: 53	Ataq. Esp: 35	Def. Esp: 110	Velocidad: 87
+ 107 	Hitmonchan 	HP: 50	Ataque: 105	Defensa: 79	Ataq. Esp: 35	Def. Esp: 110	Velocidad: 76
+ 108 	Lickitung 	HP: 90	Ataque: 55	Defensa: 75	Ataq. Esp: 60	Def. Esp: 75	Velocidad: 30
+ 109 	Koffing 	HP: 40	Ataque: 65	Defensa: 95	Ataq. Esp: 60	Def. Esp: 45	Velocidad: 35
+ 110 	Weezing 	HP: 65	Ataque: 90	Defensa: 120	Ataq. Esp: 85	Def. Esp: 70	Velocidad: 60
+ 111 	Rhyhorn 	HP: 80	Ataque: 85	Defensa: 95	Ataq. Esp: 30	Def. Esp: 30	Velocidad: 25
+ 112 	Rhydon 	HP: 105	Ataque: 130	Defensa: 120	Ataq. Esp: 45	Def. Esp: 45	Velocidad: 40
+ 113 	Chansey 	HP: 250	Ataque: 5	Defensa: 5	Ataq. Esp: 35	Def. Esp: 105	Velocidad: 50
+ 114 	Tangela 	HP: 65	Ataque: 55	Defensa: 115	Ataq. Esp: 100	Def. Esp: 40	Velocidad: 60
+ 115 	Kangaskhan 	HP: 105	Ataque: 95	Defensa: 80	Ataq. Esp: 40	Def. Esp: 80	Velocidad: 90
+ 115 	Kangaskhan (Mega Kangaskhan) 	HP: 105	Ataque: 125	Defensa: 100	Ataq. Esp: 60	Def. Esp: 100	Velocidad: 100
+ 116 	Horsea 	HP: 30	Ataque: 40	Defensa: 70	Ataq. Esp: 70	Def. Esp: 25	Velocidad: 60
+ 117 	Seadra 	HP: 55	Ataque: 65	Defensa: 95	Ataq. Esp: 95	Def. Esp: 45	Velocidad: 85
+ 118 	Goldeen 	HP: 45	Ataque: 67	Defensa: 60	Ataq. Esp: 35	Def. Esp: 50	Velocidad: 63
+ 119 	Seaking 	HP: 80	Ataque: 92	Defensa: 65	Ataq. Esp: 65	Def. Esp: 80	Velocidad: 68
+ 120 	Staryu 	HP: 30	Ataque: 45	Defensa: 55	Ataq. Esp: 70	Def. Esp: 55	Velocidad: 85
+ 121 	Starmie 	HP: 60	Ataque: 75	Defensa: 85	Ataq. Esp: 100	Def. Esp: 85	Velocidad: 115
+ 122 	Mr. Mime 	HP: 40	Ataque: 45	Defensa: 65	Ataq. Esp: 100	Def. Esp: 120	Velocidad: 90
+ 123 	Scyther 	HP: 70	Ataque: 110	Defensa: 80	Ataq. Esp: 55	Def. Esp: 80	Velocidad: 105
+ 124 	Jynx 	HP: 65	Ataque: 50	Defensa: 35	Ataq. Esp: 115	Def. Esp: 95	Velocidad: 95
+ 125 	Electabuzz 	HP: 65	Ataque: 83	Defensa: 57	Ataq. Esp: 95	Def. Esp: 85	Velocidad: 105
+ 126 	Magmar 	HP: 65	Ataque: 95	Defensa: 57	Ataq. Esp: 100	Def. Esp: 85	Velocidad: 93
+ 127 	Pinsir 	HP: 65	Ataque: 125	Defensa: 100	Ataq. Esp: 55	Def. Esp: 70	Velocidad: 85
+ 127 	Pinsir (Mega Pinsir) 	HP: 65	Ataque: 155	Defensa: 120	Ataq. Esp: 65	Def. Esp: 90	Velocidad: 105
+ 128 	Tauros 	HP: 75	Ataque: 100	Defensa: 95	Ataq. Esp: 40	Def. Esp: 70	Velocidad: 110
+ 129 	Magikarp 	HP: 20	Ataque: 10	Defensa: 55	Ataq. Esp: 15	Def. Esp: 20	Velocidad: 80
+ 130 	Gyarados 	HP: 95	Ataque: 125	Defensa: 79	Ataq. Esp: 60	Def. Esp: 100	Velocidad: 81
+ 130 	Gyarados (Mega Gyarados) 	HP: 95	Ataque: 155	Defensa: 109	Ataq. Esp: 70	Def. Esp: 130	Velocidad: 81
+ 131 	Lapras 	HP: 130	Ataque: 85	Defensa: 80	Ataq. Esp: 85	Def. Esp: 95	Velocidad: 60
+ 132 	Ditto 	HP: 48	Ataque: 48	Defensa: 48	Ataq. Esp: 48	Def. Esp: 48	Velocidad: 48
+ 133 	Eevee 	HP: 55	Ataque: 55	Defensa: 50	Ataq. Esp: 45	Def. Esp: 65	Velocidad: 55
+ 134 	Vaporeon 	HP: 130	Ataque: 65	Defensa: 60	Ataq. Esp: 110	Def. Esp: 95	Velocidad: 65
+ 135 	Jolteon 	HP: 65	Ataque: 65	Defensa: 60	Ataq. Esp: 110	Def. Esp: 95	Velocidad: 130
+ 136 	Flareon 	HP: 65	Ataque: 130	Defensa: 60	Ataq. Esp: 95	Def. Esp: 110	Velocidad: 65
+ 137 	Porygon 	HP: 65	Ataque: 60	Defensa: 70	Ataq. Esp: 85	Def. Esp: 75	Velocidad: 40
+ 138 	Omanyte 	HP: 35	Ataque: 40	Defensa: 100	Ataq. Esp: 90	Def. Esp: 55	Velocidad: 35
+ 139 	Omastar 	HP: 70	Ataque: 60	Defensa: 125	Ataq. Esp: 115	Def. Esp: 70	Velocidad: 55
+ 140 	Kabuto 	HP: 30	Ataque: 80	Defensa: 90	Ataq. Esp: 55	Def. Esp: 45	Velocidad: 55
+ 141 	Kabutops 	HP: 60	Ataque: 115	Defensa: 105	Ataq. Esp: 65	Def. Esp: 70	Velocidad: 80
+ 142 	Aerodactyl 	HP: 80	Ataque: 105	Defensa: 65	Ataq. Esp: 60	Def. Esp: 75	Velocidad: 130
+ 142 	Aerodactyl (Mega Aerodactyl) 	HP: 80	Ataque: 135	Defensa: 85	Ataq. Esp: 70	Def. Esp: 95	Velocidad: 150
+ 143 	Snorlax 	HP: 160	Ataque: 110	Defensa: 65	Ataq. Esp: 65	Def. Esp: 110	Velocidad: 30
+ 144 	Articuno 	HP: 90	Ataque: 85	Defensa: 100	Ataq. Esp: 95	Def. Esp: 125	Velocidad: 85
+ 145 	Zapdos 	HP: 90	Ataque: 90	Defensa: 85	Ataq. Esp: 125	Def. Esp: 90	Velocidad: 100
+ 146 	Moltres 	HP: 90	Ataque: 100	Defensa: 90	Ataq. Esp: 125	Def. Esp: 85	Velocidad: 90
+ 147 	Dratini 	HP: 41	Ataque: 64	Defensa: 45	Ataq. Esp: 50	Def. Esp: 50	Velocidad: 50
+ 148 	Dragonair 	HP: 61	Ataque: 84	Defensa: 65	Ataq. Esp: 70	Def. Esp: 70	Velocidad: 70
+ 149 	Dragonite 	HP: 91	Ataque: 134	Defensa: 95	Ataq. Esp: 100	Def. Esp: 100	Velocidad: 80
+ 150 	Mewtwo 	HP: 106	Ataque: 110	Defensa: 90	Ataq. Esp: 154	Def. Esp: 90	Velocidad: 130
+ 150 	Mewtwo (Mega Mewtwo X) 	HP: 106	Ataque: 190	Defensa: 100	Ataq. Esp: 154	Def. Esp: 100	Velocidad: 130
+ 150 	Mewtwo (Mega Mewtwo Y) 	HP: 106	Ataque: 150	Defensa: 70	Ataq. Esp: 194	Def. Esp: 120	Velocidad: 140
+ 151 	Mew 	HP: 100	Ataque: 100	Defensa: 100	Ataq. Esp: 100	Def. Esp: 100	Velocidad: 100
+ 152 	Chikorita 	HP: 45	Ataque: 49	Defensa: 65	Ataq. Esp: 49	Def. Esp: 65	Velocidad: 45
+ 153 	Bayleef 	HP: 60	Ataque: 62	Defensa: 80	Ataq. Esp: 63	Def. Esp: 80	Velocidad: 60
+ 154 	Meganium 	HP: 80	Ataque: 82	Defensa: 100	Ataq. Esp: 83	Def. Esp: 100	Velocidad: 80
+ 155 	Cyndaquil 	HP: 39	Ataque: 52	Defensa: 43	Ataq. Esp: 60	Def. Esp: 50	Velocidad: 65
+ 156 	Quilava 	HP: 58	Ataque: 64	Defensa: 58	Ataq. Esp: 80	Def. Esp: 65	Velocidad: 80
+ 157 	Typhlosion 	HP: 78	Ataque: 84	Defensa: 78	Ataq. Esp: 109	Def. Esp: 85	Velocidad: 100
+ 158 	Totodile 	HP: 50	Ataque: 65	Defensa: 64	Ataq. Esp: 44	Def. Esp: 48	Velocidad: 43
+ 159 	Croconaw 	HP: 65	Ataque: 80	Defensa: 80	Ataq. Esp: 59	Def. Esp: 63	Velocidad: 58
+ 160 	Feraligatr 	HP: 85	Ataque: 105	Defensa: 100	Ataq. Esp: 79	Def. Esp: 83	Velocidad: 78
+ 161 	Sentret 	HP: 35	Ataque: 46	Defensa: 34	Ataq. Esp: 35	Def. Esp: 45	Velocidad: 20
+ 162 	Furret 	HP: 85	Ataque: 76	Defensa: 64	Ataq. Esp: 45	Def. Esp: 55	Velocidad: 90
+ 163 	Hoothoot 	HP: 60	Ataque: 30	Defensa: 30	Ataq. Esp: 36	Def. Esp: 56	Velocidad: 50
+ 164 	Noctowl 	HP: 100	Ataque: 50	Defensa: 50	Ataq. Esp: 86	Def. Esp: 96	Velocidad: 70
+ 165 	Ledyba 	HP: 40	Ataque: 20	Defensa: 30	Ataq. Esp: 40	Def. Esp: 80	Velocidad: 55
+ 166 	Ledian 	HP: 55	Ataque: 35	Defensa: 50	Ataq. Esp: 55	Def. Esp: 110	Velocidad: 85
+ 167 	Spinarak 	HP: 40	Ataque: 60	Defensa: 40	Ataq. Esp: 40	Def. Esp: 40	Velocidad: 30
+ 168 	Ariados 	HP: 70	Ataque: 90	Defensa: 70	Ataq. Esp: 60	Def. Esp: 70	Velocidad: 40
+ 169 	Crobat 	HP: 85	Ataque: 90	Defensa: 80	Ataq. Esp: 70	Def. Esp: 80	Velocidad: 130
+ 170 	Chinchou 	HP: 75	Ataque: 38	Defensa: 38	Ataq. Esp: 56	Def. Esp: 56	Velocidad: 67
+ 171 	Lanturn 	HP: 125	Ataque: 58	Defensa: 58	Ataq. Esp: 76	Def. Esp: 76	Velocidad: 67
+ 172 	Pichu 	HP: 20	Ataque: 40	Defensa: 15	Ataq. Esp: 35	Def. Esp: 35	Velocidad: 60
+ 173 	Cleffa 	HP: 50	Ataque: 25	Defensa: 28	Ataq. Esp: 45	Def. Esp: 55	Velocidad: 15
+ 174 	Igglybuff 	HP: 90	Ataque: 30	Defensa: 15	Ataq. Esp: 40	Def. Esp: 20	Velocidad: 15
+ 175 	Togepi 	HP: 35	Ataque: 20	Defensa: 65	Ataq. Esp: 40	Def. Esp: 65	Velocidad: 20
+ 176 	Togetic 	HP: 55	Ataque: 40	Defensa: 85	Ataq. Esp: 80	Def. Esp: 105	Velocidad: 40
+ 177 	Natu 	HP: 40	Ataque: 50	Defensa: 45	Ataq. Esp: 70	Def. Esp: 45	Velocidad: 70
+ 178 	Xatu 	HP: 65	Ataque: 75	Defensa: 70	Ataq. Esp: 95	Def. Esp: 70	Velocidad: 95
+ 179 	Mareep 	HP: 55	Ataque: 40	Defensa: 40	Ataq. Esp: 65	Def. Esp: 45	Velocidad: 35
+ 180 	Flaaffy 	HP: 70	Ataque: 55	Defensa: 55	Ataq. Esp: 80	Def. Esp: 60	Velocidad: 45
+ 181 	Ampharos 	HP: 90	Ataque: 75	Defensa: 85	Ataq. Esp: 115	Def. Esp: 90	Velocidad: 55
+ 181 	Ampharos (Mega Ampharos) 	HP: 90	Ataque: 95	Defensa: 105	Ataq. Esp: 165	Def. Esp: 110	Velocidad: 45
+ 182 	Bellossom 	HP: 75	Ataque: 80	Defensa: 95	Ataq. Esp: 90	Def. Esp: 100	Velocidad: 50
+ 183 	Marill 	HP: 70	Ataque: 20	Defensa: 50	Ataq. Esp: 20	Def. Esp: 50	Velocidad: 40
+ 184 	Azumarill 	HP: 100	Ataque: 50	Defensa: 80	Ataq. Esp: 60	Def. Esp: 80	Velocidad: 50
+ 185 	Sudowoodo 	HP: 70	Ataque: 100	Defensa: 115	Ataq. Esp: 30	Def. Esp: 65	Velocidad: 30
+ 186 	Politoed 	HP: 90	Ataque: 75	Defensa: 75	Ataq. Esp: 90	Def. Esp: 100	Velocidad: 70
+ 187 	Hoppip 	HP: 35	Ataque: 35	Defensa: 40	Ataq. Esp: 35	Def. Esp: 55	Velocidad: 50
+ 188 	Skiploom 	HP: 55	Ataque: 45	Defensa: 50	Ataq. Esp: 45	Def. Esp: 65	Velocidad: 80
+ 189 	Jumpluff 	HP: 75	Ataque: 55	Defensa: 70	Ataq. Esp: 55	Def. Esp: 95	Velocidad: 110
+ 190 	Aipom 	HP: 55	Ataque: 70	Defensa: 55	Ataq. Esp: 40	Def. Esp: 55	Velocidad: 85
+ 191 	Sunkern 	HP: 30	Ataque: 30	Defensa: 30	Ataq. Esp: 30	Def. Esp: 30	Velocidad: 30
+ 192 	Sunflora 	HP: 75	Ataque: 75	Defensa: 55	Ataq. Esp: 105	Def. Esp: 85	Velocidad: 30
+ 193 	Yanma 	HP: 65	Ataque: 65	Defensa: 45	Ataq. Esp: 75	Def. Esp: 45	Velocidad: 95
+ 194 	Wooper 	HP: 55	Ataque: 45	Defensa: 45	Ataq. Esp: 25	Def. Esp: 25	Velocidad: 15
+ 195 	Quagsire 	HP: 95	Ataque: 85	Defensa: 85	Ataq. Esp: 65	Def. Esp: 65	Velocidad: 35
+ 196 	Espeon 	HP: 65	Ataque: 65	Defensa: 60	Ataq. Esp: 130	Def. Esp: 95	Velocidad: 110
+ 197 	Umbreon 	HP: 95	Ataque: 65	Defensa: 110	Ataq. Esp: 60	Def. Esp: 130	Velocidad: 65
+ 198 	Murkrow 	HP: 60	Ataque: 85	Defensa: 42	Ataq. Esp: 85	Def. Esp: 42	Velocidad: 91
+ 199 	Slowking 	HP: 95	Ataque: 75	Defensa: 80	Ataq. Esp: 100	Def. Esp: 110	Velocidad: 30
+ 200 	Misdreavus 	HP: 60	Ataque: 60	Defensa: 60	Ataq. Esp: 85	Def. Esp: 85	Velocidad: 85
+ 201 	Unown 	HP: 48	Ataque: 72	Defensa: 48	Ataq. Esp: 72	Def. Esp: 48	Velocidad: 48
+ 202 	Wobbuffet 	HP: 190	Ataque: 33	Defensa: 58	Ataq. Esp: 33	Def. Esp: 58	Velocidad: 33
+ 203 	Girafarig 	HP: 70	Ataque: 80	Defensa: 65	Ataq. Esp: 90	Def. Esp: 65	Velocidad: 85
+ 204 	Pineco 	HP: 50	Ataque: 65	Defensa: 90	Ataq. Esp: 35	Def. Esp: 35	Velocidad: 15
+ 205 	Forretress 	HP: 75	Ataque: 90	Defensa: 140	Ataq. Esp: 60	Def. Esp: 60	Velocidad: 40
+ 206 	Dunsparce 	HP: 100	Ataque: 70	Defensa: 70	Ataq. Esp: 65	Def. Esp: 65	Velocidad: 45
+ 207 	Gligar 	HP: 65	Ataque: 75	Defensa: 105	Ataq. Esp: 35	Def. Esp: 65	Velocidad: 85
+ 208 	Steelix 	HP: 75	Ataque: 85	Defensa: 200	Ataq. Esp: 55	Def. Esp: 65	Velocidad: 30
+ 208 	Steelix (Mega Steelix) 	HP: 75	Ataque: 125	Defensa: 230	Ataq. Esp: 55	Def. Esp: 95	Velocidad: 30
+ 209 	Snubbull 	HP: 60	Ataque: 80	Defensa: 50	Ataq. Esp: 40	Def. Esp: 40	Velocidad: 30
+ 210 	Granbull 	HP: 90	Ataque: 120	Defensa: 75	Ataq. Esp: 60	Def. Esp: 60	Velocidad: 45
+ 211 	Qwilfish 	HP: 65	Ataque: 95	Defensa: 85	Ataq. Esp: 55	Def. Esp: 55	Velocidad: 85
+ 212 	Scizor 	HP: 70	Ataque: 130	Defensa: 100	Ataq. Esp: 55	Def. Esp: 80	Velocidad: 65
+ 212 	Scizor (Mega Scizor) 	HP: 70	Ataque: 150	Defensa: 140	Ataq. Esp: 65	Def. Esp: 100	Velocidad: 75
+ 213 	Shuckle 	HP: 20	Ataque: 10	Defensa: 230	Ataq. Esp: 10	Def. Esp: 230	Velocidad: 5
+ 214 	Heracross 	HP: 80	Ataque: 125	Defensa: 75	Ataq. Esp: 40	Def. Esp: 95	Velocidad: 85
+ 214 	Heracross (Mega Heracross) 	HP: 80	Ataque: 185	Defensa: 115	Ataq. Esp: 40	Def. Esp: 105	Velocidad: 75
+ 215 	Sneasel 	HP: 55	Ataque: 95	Defensa: 55	Ataq. Esp: 35	Def. Esp: 75	Velocidad: 115
+ 216 	Teddiursa 	HP: 60	Ataque: 80	Defensa: 50	Ataq. Esp: 50	Def. Esp: 50	Velocidad: 40
+ 217 	Ursaring 	HP: 90	Ataque: 130	Defensa: 75	Ataq. Esp: 75	Def. Esp: 75	Velocidad: 55
+ 218 	Slugma 	HP: 40	Ataque: 40	Defensa: 40	Ataq. Esp: 70	Def. Esp: 40	Velocidad: 20
+ 219 	Magcargo 	HP: 60	Ataque: 50	Defensa: 120	Ataq. Esp: 90	Def. Esp: 80	Velocidad: 30
+ 220 	Swinub 	HP: 50	Ataque: 50	Defensa: 40	Ataq. Esp: 30	Def. Esp: 30	Velocidad: 50
+ 221 	Piloswine 	HP: 100	Ataque: 100	Defensa: 80	Ataq. Esp: 60	Def. Esp: 60	Velocidad: 50
+ 222 	Corsola 	HP: 65	Ataque: 55	Defensa: 95	Ataq. Esp: 65	Def. Esp: 95	Velocidad: 35
+ 223 	Remoraid 	HP: 35	Ataque: 65	Defensa: 35	Ataq. Esp: 65	Def. Esp: 35	Velocidad: 65
+ 224 	Octillery 	HP: 75	Ataque: 105	Defensa: 75	Ataq. Esp: 105	Def. Esp: 75	Velocidad: 45
+ 225 	Delibird 	HP: 45	Ataque: 55	Defensa: 45	Ataq. Esp: 65	Def. Esp: 45	Velocidad: 75
+ 226 	Mantine 	HP: 85	Ataque: 40	Defensa: 70	Ataq. Esp: 80	Def. Esp: 140	Velocidad: 70
+ 227 	Skarmory 	HP: 65	Ataque: 80	Defensa: 140	Ataq. Esp: 40	Def. Esp: 70	Velocidad: 70
+ 228 	Houndour 	HP: 45	Ataque: 60	Defensa: 30	Ataq. Esp: 80	Def. Esp: 50	Velocidad: 65
+ 229 	Houndoom 	HP: 75	Ataque: 90	Defensa: 50	Ataq. Esp: 110	Def. Esp: 80	Velocidad: 95
+ 229 	Houndoom (Mega Houndoom) 	HP: 75	Ataque: 90	Defensa: 90	Ataq. Esp: 140	Def. Esp: 90	Velocidad: 115
+ 230 	Kingdra 	HP: 75	Ataque: 95	Defensa: 95	Ataq. Esp: 95	Def. Esp: 95	Velocidad: 85
+ 231 	Phanpy 	HP: 90	Ataque: 60	Defensa: 60	Ataq. Esp: 40	Def. Esp: 40	Velocidad: 40
+ 232 	Donphan 	HP: 90	Ataque: 120	Defensa: 120	Ataq. Esp: 60	Def. Esp: 60	Velocidad: 50
+ 233 	Porygon2 	HP: 85	Ataque: 80	Defensa: 90	Ataq. Esp: 105	Def. Esp: 95	Velocidad: 60
+ 234 	Stantler 	HP: 73	Ataque: 95	Defensa: 62	Ataq. Esp: 85	Def. Esp: 65	Velocidad: 85
+ 235 	Smeargle 	HP: 55	Ataque: 20	Defensa: 35	Ataq. Esp: 20	Def. Esp: 45	Velocidad: 75
+ 236 	Tyrogue 	HP: 35	Ataque: 35	Defensa: 35	Ataq. Esp: 35	Def. Esp: 35	Velocidad: 35
+ 237 	Hitmontop 	HP: 50	Ataque: 95	Defensa: 95	Ataq. Esp: 35	Def. Esp: 110	Velocidad: 70
+ 238 	Smoochum 	HP: 45	Ataque: 30	Defensa: 15	Ataq. Esp: 85	Def. Esp: 65	Velocidad: 65
+ 239 	Elekid 	HP: 45	Ataque: 63	Defensa: 37	Ataq. Esp: 65	Def. Esp: 55	Velocidad: 95
+ 240 	Magby 	HP: 45	Ataque: 75	Defensa: 37	Ataq. Esp: 70	Def. Esp: 55	Velocidad: 83
+ 241 	Miltank 	HP: 95	Ataque: 80	Defensa: 105	Ataq. Esp: 40	Def. Esp: 70	Velocidad: 100
+ 242 	Blissey 	HP: 255	Ataque: 10	Defensa: 10	Ataq. Esp: 75	Def. Esp: 135	Velocidad: 55
+ 243 	Raikou 	HP: 90	Ataque: 85	Defensa: 75	Ataq. Esp: 115	Def. Esp: 100	Velocidad: 115
+ 244 	Entei 	HP: 115	Ataque: 115	Defensa: 85	Ataq. Esp: 90	Def. Esp: 75	Velocidad: 100
+ 245 	Suicune 	HP: 100	Ataque: 75	Defensa: 115	Ataq. Esp: 90	Def. Esp: 115	Velocidad: 85
+ 246 	Larvitar 	HP: 50	Ataque: 64	Defensa: 50	Ataq. Esp: 45	Def. Esp: 50	Velocidad: 41
+ 247 	Pupitar 	HP: 70	Ataque: 84	Defensa: 70	Ataq. Esp: 65	Def. Esp: 70	Velocidad: 51
+ 248 	Tyranitar 	HP: 100	Ataque: 134	Defensa: 110	Ataq. Esp: 95	Def. Esp: 100	Velocidad: 61
+ 248 	Tyranitar (Mega Tyranitar) 	HP: 100	Ataque: 164	Defensa: 150	Ataq. Esp: 95	Def. Esp: 120	Velocidad: 71
+ 249 	Lugia 	HP: 106	Ataque: 90	Defensa: 130	Ataq. Esp: 90	Def. Esp: 154	Velocidad: 110
+ 250 	Ho-Oh 	HP: 106	Ataque: 130	Defensa: 90	Ataq. Esp: 110	Def. Esp: 154	Velocidad: 90
+ 251 	Celebi 	HP: 100	Ataque: 100	Defensa: 100	Ataq. Esp: 100	Def. Esp: 100	Velocidad: 100
+ 252 	Treecko 	HP: 40	Ataque: 45	Defensa: 35	Ataq. Esp: 65	Def. Esp: 55	Velocidad: 70
+ 253 	Grovyle 	HP: 50	Ataque: 65	Defensa: 45	Ataq. Esp: 85	Def. Esp: 65	Velocidad: 95
+ 254 	Sceptile 	HP: 70	Ataque: 85	Defensa: 65	Ataq. Esp: 105	Def. Esp: 85	Velocidad: 120
+ 254 	Sceptile (Mega Sceptile) 	HP: 70	Ataque: 110	Defensa: 75	Ataq. Esp: 145	Def. Esp: 85	Velocidad: 145
+ 255 	Torchic 	HP: 45	Ataque: 60	Defensa: 40	Ataq. Esp: 70	Def. Esp: 50	Velocidad: 45
+ 256 	Combusken 	HP: 60	Ataque: 85	Defensa: 60	Ataq. Esp: 85	Def. Esp: 60	Velocidad: 55
+ 257 	Blaziken 	HP: 80	Ataque: 120	Defensa: 70	Ataq. Esp: 110	Def. Esp: 70	Velocidad: 80
+ 257 	Blaziken (Mega Blaziken) 	HP: 80	Ataque: 160	Defensa: 80	Ataq. Esp: 130	Def. Esp: 80	Velocidad: 100
+ 258 	Mudkip 	HP: 50	Ataque: 70	Defensa: 50	Ataq. Esp: 50	Def. Esp: 50	Velocidad: 40
+ 259 	Marshtomp 	HP: 70	Ataque: 85	Defensa: 70	Ataq. Esp: 60	Def. Esp: 70	Velocidad: 50
+ 260 	Swampert 	HP: 100	Ataque: 110	Defensa: 90	Ataq. Esp: 85	Def. Esp: 90	Velocidad: 60
+ 260 	Swampert (Mega Swampert) 	HP: 100	Ataque: 150	Defensa: 110	Ataq. Esp: 95	Def. Esp: 110	Velocidad: 70
+ 261 	Poochyena 	HP: 35	Ataque: 55	Defensa: 35	Ataq. Esp: 30	Def. Esp: 30	Velocidad: 35
+ 262 	Mightyena 	HP: 70	Ataque: 90	Defensa: 70	Ataq. Esp: 60	Def. Esp: 60	Velocidad: 70
+ 263 	Zigzagoon 	HP: 38	Ataque: 30	Defensa: 41	Ataq. Esp: 30	Def. Esp: 41	Velocidad: 60
+ 264 	Linoone 	HP: 78	Ataque: 70	Defensa: 61	Ataq. Esp: 50	Def. Esp: 61	Velocidad: 100
+ 265 	Wurmple 	HP: 45	Ataque: 45	Defensa: 35	Ataq. Esp: 20	Def. Esp: 30	Velocidad: 20
+ 266 	Silcoon 	HP: 50	Ataque: 35	Defensa: 55	Ataq. Esp: 25	Def. Esp: 25	Velocidad: 15
+ 267 	Beautifly 	HP: 60	Ataque: 70	Defensa: 50	Ataq. Esp: 100	Def. Esp: 50	Velocidad: 65
+ 268 	Cascoon 	HP: 50	Ataque: 35	Defensa: 55	Ataq. Esp: 25	Def. Esp: 25	Velocidad: 15
+ 269 	Dustox 	HP: 60	Ataque: 50	Defensa: 70	Ataq. Esp: 50	Def. Esp: 90	Velocidad: 65
+ 270 	Lotad 	HP: 40	Ataque: 30	Defensa: 30	Ataq. Esp: 40	Def. Esp: 50	Velocidad: 30
+ 271 	Lombre 	HP: 60	Ataque: 50	Defensa: 50	Ataq. Esp: 60	Def. Esp: 70	Velocidad: 50
+ 272 	Ludicolo 	HP: 80	Ataque: 70	Defensa: 70	Ataq. Esp: 90	Def. Esp: 100	Velocidad: 70
+ 273 	Seedot 	HP: 40	Ataque: 40	Defensa: 50	Ataq. Esp: 30	Def. Esp: 30	Velocidad: 30
+ 274 	Nuzleaf 	HP: 70	Ataque: 70	Defensa: 40	Ataq. Esp: 60	Def. Esp: 40	Velocidad: 60
+ 275 	Shiftry 	HP: 90	Ataque: 100	Defensa: 60	Ataq. Esp: 90	Def. Esp: 60	Velocidad: 80
+ 276 	Taillow 	HP: 40	Ataque: 55	Defensa: 30	Ataq. Esp: 30	Def. Esp: 30	Velocidad: 85
+ 277 	Swellow 	HP: 60	Ataque: 85	Defensa: 60	Ataq. Esp: 75	Def. Esp: 50	Velocidad: 125
+ 278 	Wingull 	HP: 40	Ataque: 30	Defensa: 30	Ataq. Esp: 55	Def. Esp: 30	Velocidad: 85
+ 279 	Pelipper 	HP: 60	Ataque: 50	Defensa: 100	Ataq. Esp: 95	Def. Esp: 70	Velocidad: 65
+ 280 	Ralts 	HP: 28	Ataque: 25	Defensa: 25	Ataq. Esp: 45	Def. Esp: 35	Velocidad: 40
+ 281 	Kirlia 	HP: 38	Ataque: 35	Defensa: 35	Ataq. Esp: 65	Def. Esp: 55	Velocidad: 50
+ 282 	Gardevoir 	HP: 68	Ataque: 65	Defensa: 65	Ataq. Esp: 125	Def. Esp: 115	Velocidad: 80
+ 282 	Gardevoir (Mega Gardevoir) 	HP: 68	Ataque: 85	Defensa: 65	Ataq. Esp: 165	Def. Esp: 135	Velocidad: 100
+ 283 	Surskit 	HP: 40	Ataque: 30	Defensa: 32	Ataq. Esp: 50	Def. Esp: 52	Velocidad: 65
+ 284 	Masquerain 	HP: 70	Ataque: 60	Defensa: 62	Ataq. Esp: 100	Def. Esp: 82	Velocidad: 80
+ 285 	Shroomish 	HP: 60	Ataque: 40	Defensa: 60	Ataq. Esp: 40	Def. Esp: 60	Velocidad: 35
+ 286 	Breloom 	HP: 60	Ataque: 130	Defensa: 80	Ataq. Esp: 60	Def. Esp: 60	Velocidad: 70
+ 287 	Slakoth 	HP: 60	Ataque: 60	Defensa: 60	Ataq. Esp: 35	Def. Esp: 35	Velocidad: 30
+ 288 	Vigoroth 	HP: 80	Ataque: 80	Defensa: 80	Ataq. Esp: 55	Def. Esp: 55	Velocidad: 90
+ 289 	Slaking 	HP: 150	Ataque: 160	Defensa: 100	Ataq. Esp: 95	Def. Esp: 65	Velocidad: 100
+ 290 	Nincada 	HP: 31	Ataque: 45	Defensa: 90	Ataq. Esp: 30	Def. Esp: 30	Velocidad: 40
+ 291 	Ninjask 	HP: 61	Ataque: 90	Defensa: 45	Ataq. Esp: 50	Def. Esp: 50	Velocidad: 160
+ 292 	Shedinja 	HP: 1	Ataque: 90	Defensa: 45	Ataq. Esp: 30	Def. Esp: 30	Velocidad: 40
+ 293 	Whismur 	HP: 64	Ataque: 51	Defensa: 23	Ataq. Esp: 51	Def. Esp: 23	Velocidad: 28
+ 294 	Loudred 	HP: 84	Ataque: 71	Defensa: 43	Ataq. Esp: 71	Def. Esp: 43	Velocidad: 48
+ 295 	Exploud 	HP: 104	Ataque: 91	Defensa: 63	Ataq. Esp: 91	Def. Esp: 73	Velocidad: 68
+ 296 	Makuhita 	HP: 72	Ataque: 60	Defensa: 30	Ataq. Esp: 20	Def. Esp: 30	Velocidad: 25
+ 297 	Hariyama 	HP: 144	Ataque: 120	Defensa: 60	Ataq. Esp: 40	Def. Esp: 60	Velocidad: 50
+ 298 	Azurill 	HP: 50	Ataque: 20	Defensa: 40	Ataq. Esp: 20	Def. Esp: 40	Velocidad: 20
+ 299 	Nosepass 	HP: 30	Ataque: 45	Defensa: 135	Ataq. Esp: 45	Def. Esp: 90	Velocidad: 30
+ 300 	Skitty 	HP: 50	Ataque: 45	Defensa: 45	Ataq. Esp: 35	Def. Esp: 35	Velocidad: 50
+ 301 	Delcatty 	HP: 70	Ataque: 65	Defensa: 65	Ataq. Esp: 55	Def. Esp: 55	Velocidad: 90
+ 302 	Sableye 	HP: 50	Ataque: 75	Defensa: 75	Ataq. Esp: 65	Def. Esp: 65	Velocidad: 50
+ 302 	Sableye (Mega Sableye) 	HP: 50	Ataque: 85	Defensa: 125	Ataq. Esp: 85	Def. Esp: 115	Velocidad: 20
+ 303 	Mawile 	HP: 50	Ataque: 85	Defensa: 85	Ataq. Esp: 55	Def. Esp: 55	Velocidad: 50
+ 303 	Mawile (Mega Mawile) 	HP: 50	Ataque: 105	Defensa: 125	Ataq. Esp: 55	Def. Esp: 95	Velocidad: 50
+ 304 	Aron 	HP: 50	Ataque: 70	Defensa: 100	Ataq. Esp: 40	Def. Esp: 40	Velocidad: 30
+ 305 	Lairon 	HP: 60	Ataque: 90	Defensa: 140	Ataq. Esp: 50	Def. Esp: 50	Velocidad: 40
+ 306 	Aggron 	HP: 70	Ataque: 110	Defensa: 180	Ataq. Esp: 60	Def. Esp: 60	Velocidad: 50
+ 306 	Aggron (Mega Aggron) 	HP: 70	Ataque: 140	Defensa: 230	Ataq. Esp: 60	Def. Esp: 80	Velocidad: 50
+ 307 	Meditite 	HP: 30	Ataque: 40	Defensa: 55	Ataq. Esp: 40	Def. Esp: 55	Velocidad: 60
+ 308 	Medicham 	HP: 60	Ataque: 60	Defensa: 75	Ataq. Esp: 60	Def. Esp: 75	Velocidad: 80
+ 308 	Medicham (Mega Medicham) 	HP: 60	Ataque: 100	Defensa: 85	Ataq. Esp: 80	Def. Esp: 85	Velocidad: 100
+ 309 	Electrike 	HP: 40	Ataque: 45	Defensa: 40	Ataq. Esp: 65	Def. Esp: 40	Velocidad: 65
+ 310 	Manectric 	HP: 70	Ataque: 75	Defensa: 60	Ataq. Esp: 105	Def. Esp: 60	Velocidad: 105
+ 310 	Manectric (Mega Manectric) 	HP: 70	Ataque: 75	Defensa: 80	Ataq. Esp: 135	Def. Esp: 80	Velocidad: 135
+ 311 	Plusle 	HP: 60	Ataque: 50	Defensa: 40	Ataq. Esp: 85	Def. Esp: 75	Velocidad: 95
+ 312 	Minun 	HP: 60	Ataque: 40	Defensa: 50	Ataq. Esp: 75	Def. Esp: 85	Velocidad: 95
+ 313 	Volbeat 	HP: 65	Ataque: 73	Defensa: 75	Ataq. Esp: 47	Def. Esp: 85	Velocidad: 85
+ 314 	Illumise 	HP: 65	Ataque: 47	Defensa: 75	Ataq. Esp: 73	Def. Esp: 85	Velocidad: 85
+ 315 	Roselia 	HP: 50	Ataque: 60	Defensa: 45	Ataq. Esp: 100	Def. Esp: 80	Velocidad: 65
+ 316 	Gulpin 	HP: 70	Ataque: 43	Defensa: 53	Ataq. Esp: 43	Def. Esp: 53	Velocidad: 40
+ 317 	Swalot 	HP: 100	Ataque: 73	Defensa: 83	Ataq. Esp: 73	Def. Esp: 83	Velocidad: 55
+ 318 	Carvanha 	HP: 45	Ataque: 90	Defensa: 20	Ataq. Esp: 65	Def. Esp: 20	Velocidad: 65
+ 319 	Sharpedo 	HP: 70	Ataque: 120	Defensa: 40	Ataq. Esp: 95	Def. Esp: 40	Velocidad: 95
+ 319 	Sharpedo (Mega Sharpedo) 	HP: 70	Ataque: 140	Defensa: 70	Ataq. Esp: 110	Def. Esp: 65	Velocidad: 105
+ 320 	Wailmer 	HP: 130	Ataque: 70	Defensa: 35	Ataq. Esp: 70	Def. Esp: 35	Velocidad: 60
+ 321 	Wailord 	HP: 170	Ataque: 90	Defensa: 45	Ataq. Esp: 90	Def. Esp: 45	Velocidad: 60
+ 322 	Numel 	HP: 60	Ataque: 60	Defensa: 40	Ataq. Esp: 65	Def. Esp: 45	Velocidad: 35
+ 323 	Camerupt 	HP: 70	Ataque: 100	Defensa: 70	Ataq. Esp: 105	Def. Esp: 75	Velocidad: 40
+ 323 	Camerupt (Mega Camerupt) 	HP: 70	Ataque: 120	Defensa: 100	Ataq. Esp: 145	Def. Esp: 105	Velocidad: 20
+ 324 	Torkoal 	HP: 70	Ataque: 85	Defensa: 140	Ataq. Esp: 85	Def. Esp: 70	Velocidad: 20
+ 325 	Spoink 	HP: 60	Ataque: 25	Defensa: 35	Ataq. Esp: 70	Def. Esp: 80	Velocidad: 60
+ 326 	Grumpig 	HP: 80	Ataque: 45	Defensa: 65	Ataq. Esp: 90	Def. Esp: 110	Velocidad: 80
+ 327 	Spinda 	HP: 60	Ataque: 60	Defensa: 60	Ataq. Esp: 60	Def. Esp: 60	Velocidad: 60
+ 328 	Trapinch 	HP: 45	Ataque: 100	Defensa: 45	Ataq. Esp: 45	Def. Esp: 45	Velocidad: 10
+ 329 	Vibrava 	HP: 50	Ataque: 70	Defensa: 50	Ataq. Esp: 50	Def. Esp: 50	Velocidad: 70
+ 330 	Flygon 	HP: 80	Ataque: 100	Defensa: 80	Ataq. Esp: 80	Def. Esp: 80	Velocidad: 100
+ 331 	Cacnea 	HP: 50	Ataque: 85	Defensa: 40	Ataq. Esp: 85	Def. Esp: 40	Velocidad: 35
+ 332 	Cacturne 	HP: 70	Ataque: 115	Defensa: 60	Ataq. Esp: 115	Def. Esp: 60	Velocidad: 55
+ 333 	Swablu 	HP: 45	Ataque: 40	Defensa: 60	Ataq. Esp: 40	Def. Esp: 75	Velocidad: 50
+ 334 	Altaria 	HP: 75	Ataque: 70	Defensa: 90	Ataq. Esp: 70	Def. Esp: 105	Velocidad: 80
+ 334 	Altaria (Mega Altaria) 	HP: 75	Ataque: 110	Defensa: 110	Ataq. Esp: 110	Def. Esp: 105	Velocidad: 80
+ 335 	Zangoose 	HP: 73	Ataque: 115	Defensa: 60	Ataq. Esp: 60	Def. Esp: 60	Velocidad: 90
+ 336 	Seviper 	HP: 73	Ataque: 100	Defensa: 60	Ataq. Esp: 100	Def. Esp: 60	Velocidad: 65
+ 337 	Lunatone 	HP: 90	Ataque: 55	Defensa: 65	Ataq. Esp: 95	Def. Esp: 85	Velocidad: 70
+ 338 	Solrock 	HP: 90	Ataque: 95	Defensa: 85	Ataq. Esp: 55	Def. Esp: 65	Velocidad: 70
+ 339 	Barboach 	HP: 50	Ataque: 48	Defensa: 43	Ataq. Esp: 46	Def. Esp: 41	Velocidad: 60
+ 340 	Whiscash 	HP: 110	Ataque: 78	Defensa: 73	Ataq. Esp: 76	Def. Esp: 71	Velocidad: 60
+ 341 	Corphish 	HP: 43	Ataque: 80	Defensa: 65	Ataq. Esp: 50	Def. Esp: 35	Velocidad: 35
+ 342 	Crawdaunt 	HP: 63	Ataque: 120	Defensa: 85	Ataq. Esp: 90	Def. Esp: 55	Velocidad: 55
+ 343 	Baltoy 	HP: 40	Ataque: 40	Defensa: 55	Ataq. Esp: 40	Def. Esp: 70	Velocidad: 55
+ 344 	Claydol 	HP: 60	Ataque: 70	Defensa: 105	Ataq. Esp: 70	Def. Esp: 120	Velocidad: 75
+ 345 	Lileep 	HP: 66	Ataque: 41	Defensa: 77	Ataq. Esp: 61	Def. Esp: 87	Velocidad: 23
+ 346 	Cradily 	HP: 86	Ataque: 81	Defensa: 97	Ataq. Esp: 81	Def. Esp: 107	Velocidad: 43
+ 347 	Anorith 	HP: 45	Ataque: 95	Defensa: 50	Ataq. Esp: 40	Def. Esp: 50	Velocidad: 75
+ 348 	Armaldo 	HP: 75	Ataque: 125	Defensa: 100	Ataq. Esp: 70	Def. Esp: 80	Velocidad: 45
+ 349 	Feebas 	HP: 20	Ataque: 15	Defensa: 20	Ataq. Esp: 10	Def. Esp: 55	Velocidad: 80
+ 350 	Milotic 	HP: 95	Ataque: 60	Defensa: 79	Ataq. Esp: 100	Def. Esp: 125	Velocidad: 81
+ 351 	Castform 	HP: 70	Ataque: 70	Defensa: 70	Ataq. Esp: 70	Def. Esp: 70	Velocidad: 70
+ 352 	Kecleon 	HP: 60	Ataque: 90	Defensa: 70	Ataq. Esp: 60	Def. Esp: 120	Velocidad: 40
+ 353 	Shuppet 	HP: 44	Ataque: 75	Defensa: 35	Ataq. Esp: 63	Def. Esp: 33	Velocidad: 45
+ 354 	Banette 	HP: 64	Ataque: 115	Defensa: 65	Ataq. Esp: 83	Def. Esp: 63	Velocidad: 65
+ 354 	Banette (Mega Banette) 	HP: 64	Ataque: 165	Defensa: 75	Ataq. Esp: 93	Def. Esp: 83	Velocidad: 75
+ 355 	Duskull 	HP: 20	Ataque: 40	Defensa: 90	Ataq. Esp: 30	Def. Esp: 90	Velocidad: 25
+ 356 	Dusclops 	HP: 40	Ataque: 70	Defensa: 130	Ataq. Esp: 60	Def. Esp: 130	Velocidad: 25
+ 357 	Tropius 	HP: 99	Ataque: 68	Defensa: 83	Ataq. Esp: 72	Def. Esp: 87	Velocidad: 51
+ 358 	Chimecho 	HP: 75	Ataque: 50	Defensa: 80	Ataq. Esp: 95	Def. Esp: 90	Velocidad: 65
+ 359 	Absol 	HP: 65	Ataque: 130	Defensa: 60	Ataq. Esp: 75	Def. Esp: 60	Velocidad: 75
+ 359 	Absol (Mega Absol) 	HP: 65	Ataque: 150	Defensa: 60	Ataq. Esp: 115	Def. Esp: 60	Velocidad: 115
+ 360 	Wynaut 	HP: 95	Ataque: 23	Defensa: 48	Ataq. Esp: 23	Def. Esp: 48	Velocidad: 23
+ 361 	Snorunt 	HP: 50	Ataque: 50	Defensa: 50	Ataq. Esp: 50	Def. Esp: 50	Velocidad: 50
+ 362 	Glalie 	HP: 80	Ataque: 80	Defensa: 80	Ataq. Esp: 80	Def. Esp: 80	Velocidad: 80
+ 362 	Glalie (Mega Glalie) 	HP: 80	Ataque: 120	Defensa: 80	Ataq. Esp: 120	Def. Esp: 80	Velocidad: 100
+ 363 	Spheal 	HP: 70	Ataque: 40	Defensa: 50	Ataq. Esp: 55	Def. Esp: 50	Velocidad: 25
+ 364 	Sealeo 	HP: 90	Ataque: 60	Defensa: 70	Ataq. Esp: 75	Def. Esp: 70	Velocidad: 45
+ 365 	Walrein 	HP: 110	Ataque: 80	Defensa: 90	Ataq. Esp: 95	Def. Esp: 90	Velocidad: 65
+ 366 	Clamperl 	HP: 35	Ataque: 64	Defensa: 85	Ataq. Esp: 74	Def. Esp: 55	Velocidad: 32
+ 367 	Huntail 	HP: 55	Ataque: 104	Defensa: 105	Ataq. Esp: 94	Def. Esp: 75	Velocidad: 52
+ 368 	Gorebyss 	HP: 55	Ataque: 84	Defensa: 105	Ataq. Esp: 114	Def. Esp: 75	Velocidad: 52
+ 369 	Relicanth 	HP: 100	Ataque: 90	Defensa: 130	Ataq. Esp: 45	Def. Esp: 65	Velocidad: 55
+ 370 	Luvdisc 	HP: 43	Ataque: 30	Defensa: 55	Ataq. Esp: 40	Def. Esp: 65	Velocidad: 97
+ 371 	Bagon 	HP: 45	Ataque: 75	Defensa: 60	Ataq. Esp: 40	Def. Esp: 30	Velocidad: 50
+ 372 	Shelgon 	HP: 65	Ataque: 95	Defensa: 100	Ataq. Esp: 60	Def. Esp: 50	Velocidad: 50
+ 373 	Salamence 	HP: 95	Ataque: 135	Defensa: 80	Ataq. Esp: 110	Def. Esp: 80	Velocidad: 100
+ 373 	Salamence (Mega Salamence) 	HP: 95	Ataque: 145	Defensa: 130	Ataq. Esp: 120	Def. Esp: 90	Velocidad: 120
+ 374 	Beldum 	HP: 40	Ataque: 55	Defensa: 80	Ataq. Esp: 35	Def. Esp: 60	Velocidad: 30
+ 375 	Metang 	HP: 60	Ataque: 75	Defensa: 100	Ataq. Esp: 55	Def. Esp: 80	Velocidad: 50
+ 376 	Metagross 	HP: 80	Ataque: 135	Defensa: 130	Ataq. Esp: 95	Def. Esp: 90	Velocidad: 70
+ 376 	Metagross (Mega Metagross) 	HP: 80	Ataque: 145	Defensa: 150	Ataq. Esp: 105	Def. Esp: 110	Velocidad: 110
+ 377 	Regirock 	HP: 80	Ataque: 100	Defensa: 200	Ataq. Esp: 50	Def. Esp: 100	Velocidad: 50
+ 378 	Regice 	HP: 80	Ataque: 50	Defensa: 100	Ataq. Esp: 100	Def. Esp: 200	Velocidad: 50
+ 379 	Registeel 	HP: 80	Ataque: 75	Defensa: 150	Ataq. Esp: 75	Def. Esp: 150	Velocidad: 50
+ 380 	Latias 	HP: 80	Ataque: 80	Defensa: 90	Ataq. Esp: 110	Def. Esp: 130	Velocidad: 110
+ 380 	Latias (Mega Latias) 	HP: 80	Ataque: 100	Defensa: 120	Ataq. Esp: 140	Def. Esp: 150	Velocidad: 110
+ 381 	Latios 	HP: 80	Ataque: 90	Defensa: 80	Ataq. Esp: 130	Def. Esp: 110	Velocidad: 110
+ 381 	Latios (Mega Latios) 	HP: 80	Ataque: 130	Defensa: 100	Ataq. Esp: 160	Def. Esp: 120	Velocidad: 110
+ 382 	Kyogre 	HP: 100	Ataque: 100	Defensa: 90	Ataq. Esp: 150	Def. Esp: 140	Velocidad: 90
+ 382 	Kyogre (Primal Kyogre) 	HP: 100	Ataque: 150	Defensa: 90	Ataq. Esp: 180	Def. Esp: 160	Velocidad: 90
+ 383 	Groudon 	HP: 100	Ataque: 150	Defensa: 140	Ataq. Esp: 100	Def. Esp: 90	Velocidad: 90
+ 383 	Groudon (Primal Groudon) 	HP: 100	Ataque: 180	Defensa: 160	Ataq. Esp: 150	Def. Esp: 90	Velocidad: 90
+ 384 	Rayquaza 	HP: 105	Ataque: 150	Defensa: 90	Ataq. Esp: 150	Def. Esp: 90	Velocidad: 95
+ 384 	Rayquaza (Mega Rayquaza) 	HP: 105	Ataque: 180	Defensa: 100	Ataq. Esp: 180	Def. Esp: 100	Velocidad: 115
+ 385 	Jirachi 	HP: 100	Ataque: 100	Defensa: 100	Ataq. Esp: 100	Def. Esp: 100	Velocidad: 100
+ 386 	Deoxys (Normal Forme) 	HP: 50	Ataque: 150	Defensa: 50	Ataq. Esp: 150	Def. Esp: 50	Velocidad: 150
+ 386 	Deoxys (Attack Forme) 	HP: 50	Ataque: 180	Defensa: 20	Ataq. Esp: 180	Def. Esp: 20	Velocidad: 150
+ 386 	Deoxys (Defense Forme) 	HP: 50	Ataque: 70	Defensa: 160	Ataq. Esp: 70	Def. Esp: 160	Velocidad: 90
+ 386 	Deoxys (Speed Forme) 	HP: 50	Ataque: 95	Defensa: 90	Ataq. Esp: 95	Def. Esp: 90	Velocidad: 180
+ 387 	Turtwig 	HP: 55	Ataque: 68	Defensa: 64	Ataq. Esp: 45	Def. Esp: 55	Velocidad: 31
+ 388 	Grotle 	HP: 75	Ataque: 89	Defensa: 85	Ataq. Esp: 55	Def. Esp: 65	Velocidad: 36
+ 389 	Torterra 	HP: 95	Ataque: 109	Defensa: 105	Ataq. Esp: 75	Def. Esp: 85	Velocidad: 56
+ 390 	Chimchar 	HP: 44	Ataque: 58	Defensa: 44	Ataq. Esp: 58	Def. Esp: 44	Velocidad: 61
+ 391 	Monferno 	HP: 64	Ataque: 78	Defensa: 52	Ataq. Esp: 78	Def. Esp: 52	Velocidad: 81
+ 392 	Infernape 	HP: 76	Ataque: 104	Defensa: 71	Ataq. Esp: 104	Def. Esp: 71	Velocidad: 108
+ 393 	Piplup 	HP: 53	Ataque: 51	Defensa: 53	Ataq. Esp: 61	Def. Esp: 56	Velocidad: 40
+ 394 	Prinplup 	HP: 64	Ataque: 66	Defensa: 68	Ataq. Esp: 81	Def. Esp: 76	Velocidad: 50
+ 395 	Empoleon 	HP: 84	Ataque: 86	Defensa: 88	Ataq. Esp: 111	Def. Esp: 101	Velocidad: 60
+ 396 	Starly 	HP: 40	Ataque: 55	Defensa: 30	Ataq. Esp: 30	Def. Esp: 30	Velocidad: 60
+ 397 	Staravia 	HP: 55	Ataque: 75	Defensa: 50	Ataq. Esp: 40	Def. Esp: 40	Velocidad: 80
+ 398 	Staraptor 	HP: 85	Ataque: 120	Defensa: 70	Ataq. Esp: 50	Def. Esp: 60	Velocidad: 100
+ 399 	Bidoof 	HP: 59	Ataque: 45	Defensa: 40	Ataq. Esp: 35	Def. Esp: 40	Velocidad: 31
+ 400 	Bibarel 	HP: 79	Ataque: 85	Defensa: 60	Ataq. Esp: 55	Def. Esp: 60	Velocidad: 71
+ 401 	Kricketot 	HP: 37	Ataque: 25	Defensa: 41	Ataq. Esp: 25	Def. Esp: 41	Velocidad: 25
+ 402 	Kricketune 	HP: 77	Ataque: 85	Defensa: 51	Ataq. Esp: 55	Def. Esp: 51	Velocidad: 65
+ 403 	Shinx 	HP: 45	Ataque: 65	Defensa: 34	Ataq. Esp: 40	Def. Esp: 34	Velocidad: 45
+ 404 	Luxio 	HP: 60	Ataque: 85	Defensa: 49	Ataq. Esp: 60	Def. Esp: 49	Velocidad: 60
+ 405 	Luxray 	HP: 80	Ataque: 120	Defensa: 79	Ataq. Esp: 95	Def. Esp: 79	Velocidad: 70
+ 406 	Budew 	HP: 40	Ataque: 30	Defensa: 35	Ataq. Esp: 50	Def. Esp: 70	Velocidad: 55
+ 407 	Roserade 	HP: 60	Ataque: 70	Defensa: 65	Ataq. Esp: 125	Def. Esp: 105	Velocidad: 90
+ 408 	Cranidos 	HP: 67	Ataque: 125	Defensa: 40	Ataq. Esp: 30	Def. Esp: 30	Velocidad: 58
+ 409 	Rampardos 	HP: 97	Ataque: 165	Defensa: 60	Ataq. Esp: 65	Def. Esp: 50	Velocidad: 58
+ 410 	Shieldon 	HP: 30	Ataque: 42	Defensa: 118	Ataq. Esp: 42	Def. Esp: 88	Velocidad: 30
+ 411 	Bastiodon 	HP: 60	Ataque: 52	Defensa: 168	Ataq. Esp: 47	Def. Esp: 138	Velocidad: 30
+ 412 	Burmy 	HP: 40	Ataque: 29	Defensa: 45	Ataq. Esp: 29	Def. Esp: 45	Velocidad: 36
+ 413 	Wormadam (Plant Cloak) 	HP: 60	Ataque: 59	Defensa: 85	Ataq. Esp: 79	Def. Esp: 105	Velocidad: 36
+ 413 	Wormadam (Sandy Cloak) 	HP: 60	Ataque: 79	Defensa: 105	Ataq. Esp: 59	Def. Esp: 85	Velocidad: 36
+ 413 	Wormadam (Trash Cloak) 	HP: 60	Ataque: 69	Defensa: 95	Ataq. Esp: 69	Def. Esp: 95	Velocidad: 36
+ 414 	Mothim 	HP: 70	Ataque: 94	Defensa: 50	Ataq. Esp: 94	Def. Esp: 50	Velocidad: 66
+ 415 	Combee 	HP: 30	Ataque: 30	Defensa: 42	Ataq. Esp: 30	Def. Esp: 42	Velocidad: 70
+ 416 	Vespiquen 	HP: 70	Ataque: 80	Defensa: 102	Ataq. Esp: 80	Def. Esp: 102	Velocidad: 40
+ 417 	Pachirisu 	HP: 60	Ataque: 45	Defensa: 70	Ataq. Esp: 45	Def. Esp: 90	Velocidad: 95
+ 418 	Buizel 	HP: 55	Ataque: 65	Defensa: 35	Ataq. Esp: 60	Def. Esp: 30	Velocidad: 85
+ 419 	Floatzel 	HP: 85	Ataque: 105	Defensa: 55	Ataq. Esp: 85	Def. Esp: 50	Velocidad: 115
+ 420 	Cherubi 	HP: 45	Ataque: 35	Defensa: 45	Ataq. Esp: 62	Def. Esp: 53	Velocidad: 35
+ 421 	Cherrim 	HP: 70	Ataque: 60	Defensa: 70	Ataq. Esp: 87	Def. Esp: 78	Velocidad: 85
+ 422 	Shellos 	HP: 76	Ataque: 48	Defensa: 48	Ataq. Esp: 57	Def. Esp: 62	Velocidad: 34
+ 423 	Gastrodon 	HP: 111	Ataque: 83	Defensa: 68	Ataq. Esp: 92	Def. Esp: 82	Velocidad: 39
+ 424 	Ambipom 	HP: 75	Ataque: 100	Defensa: 66	Ataq. Esp: 60	Def. Esp: 66	Velocidad: 115
+ 425 	Drifloon 	HP: 90	Ataque: 50	Defensa: 34	Ataq. Esp: 60	Def. Esp: 44	Velocidad: 70
+ 426 	Drifblim 	HP: 150	Ataque: 80	Defensa: 44	Ataq. Esp: 90	Def. Esp: 54	Velocidad: 80
+ 427 	Buneary 	HP: 55	Ataque: 66	Defensa: 44	Ataq. Esp: 44	Def. Esp: 56	Velocidad: 85
+ 428 	Lopunny 	HP: 65	Ataque: 76	Defensa: 84	Ataq. Esp: 54	Def. Esp: 96	Velocidad: 105
+ 428 	Lopunny (Mega Lopunny) 	HP: 65	Ataque: 136	Defensa: 94	Ataq. Esp: 54	Def. Esp: 96	Velocidad: 135
+ 429 	Mismagius 	HP: 60	Ataque: 60	Defensa: 60	Ataq. Esp: 105	Def. Esp: 105	Velocidad: 105
+ 430 	Honchkrow 	HP: 100	Ataque: 125	Defensa: 52	Ataq. Esp: 105	Def. Esp: 52	Velocidad: 71
+ 431 	Glameow 	HP: 49	Ataque: 55	Defensa: 42	Ataq. Esp: 42	Def. Esp: 37	Velocidad: 85
+ 432 	Purugly 	HP: 71	Ataque: 82	Defensa: 64	Ataq. Esp: 64	Def. Esp: 59	Velocidad: 112
+ 433 	Chingling 	HP: 45	Ataque: 30	Defensa: 50	Ataq. Esp: 65	Def. Esp: 50	Velocidad: 45
+ 434 	Stunky 	HP: 63	Ataque: 63	Defensa: 47	Ataq. Esp: 41	Def. Esp: 41	Velocidad: 74
+ 435 	Skuntank 	HP: 103	Ataque: 93	Defensa: 67	Ataq. Esp: 71	Def. Esp: 61	Velocidad: 84
+ 436 	Bronzor 	HP: 57	Ataque: 24	Defensa: 86	Ataq. Esp: 24	Def. Esp: 86	Velocidad: 23
+ 437 	Bronzong 	HP: 67	Ataque: 89	Defensa: 116	Ataq. Esp: 79	Def. Esp: 116	Velocidad: 33
+ 438 	Bonsly 	HP: 50	Ataque: 80	Defensa: 95	Ataq. Esp: 10	Def. Esp: 45	Velocidad: 10
+ 439 	Mime Jr. 	HP: 20	Ataque: 25	Defensa: 45	Ataq. Esp: 70	Def. Esp: 90	Velocidad: 60
+ 440 	Happiny 	HP: 100	Ataque: 5	Defensa: 5	Ataq. Esp: 15	Def. Esp: 65	Velocidad: 30
+ 441 	Chatot 	HP: 76	Ataque: 65	Defensa: 45	Ataq. Esp: 92	Def. Esp: 42	Velocidad: 91
+ 442 	Spiritomb 	HP: 50	Ataque: 92	Defensa: 108	Ataq. Esp: 92	Def. Esp: 108	Velocidad: 35
+ 443 	Gible 	HP: 58	Ataque: 70	Defensa: 45	Ataq. Esp: 40	Def. Esp: 45	Velocidad: 42
+ 444 	Gabite 	HP: 68	Ataque: 90	Defensa: 65	Ataq. Esp: 50	Def. Esp: 55	Velocidad: 82
+ 445 	Garchomp 	HP: 108	Ataque: 130	Defensa: 95	Ataq. Esp: 80	Def. Esp: 85	Velocidad: 102
+ 445 	Garchomp (Mega Garchomp) 	HP: 108	Ataque: 170	Defensa: 115	Ataq. Esp: 120	Def. Esp: 95	Velocidad: 92
+ 446 	Munchlax 	HP: 135	Ataque: 85	Defensa: 40	Ataq. Esp: 40	Def. Esp: 85	Velocidad: 5
+ 447 	Riolu 	HP: 40	Ataque: 70	Defensa: 40	Ataq. Esp: 35	Def. Esp: 40	Velocidad: 60
+ 448 	Lucario 	HP: 70	Ataque: 110	Defensa: 70	Ataq. Esp: 115	Def. Esp: 70	Velocidad: 90
+ 448 	Lucario (Mega Lucario) 	HP: 70	Ataque: 145	Defensa: 88	Ataq. Esp: 140	Def. Esp: 70	Velocidad: 112
+ 449 	Hippopotas 	HP: 68	Ataque: 72	Defensa: 78	Ataq. Esp: 38	Def. Esp: 42	Velocidad: 32
+ 450 	Hippowdon 	HP: 108	Ataque: 112	Defensa: 118	Ataq. Esp: 68	Def. Esp: 72	Velocidad: 47
+ 451 	Skorupi 	HP: 40	Ataque: 50	Defensa: 90	Ataq. Esp: 30	Def. Esp: 55	Velocidad: 65
+ 452 	Drapion 	HP: 70	Ataque: 90	Defensa: 110	Ataq. Esp: 60	Def. Esp: 75	Velocidad: 95
+ 453 	Croagunk 	HP: 48	Ataque: 61	Defensa: 40	Ataq. Esp: 61	Def. Esp: 40	Velocidad: 50
+ 454 	Toxicroak 	HP: 83	Ataque: 106	Defensa: 65	Ataq. Esp: 86	Def. Esp: 65	Velocidad: 85
+ 455 	Carnivine 	HP: 74	Ataque: 100	Defensa: 72	Ataq. Esp: 90	Def. Esp: 72	Velocidad: 46
+ 456 	Finneon 	HP: 49	Ataque: 49	Defensa: 56	Ataq. Esp: 49	Def. Esp: 61	Velocidad: 66
+ 457 	Lumineon 	HP: 69	Ataque: 69	Defensa: 76	Ataq. Esp: 69	Def. Esp: 86	Velocidad: 91
+ 458 	Mantyke 	HP: 45	Ataque: 20	Defensa: 50	Ataq. Esp: 60	Def. Esp: 120	Velocidad: 50
+ 459 	Snover 	HP: 60	Ataque: 62	Defensa: 50	Ataq. Esp: 62	Def. Esp: 60	Velocidad: 40
+ 460 	Abomasnow 	HP: 90	Ataque: 92	Defensa: 75	Ataq. Esp: 92	Def. Esp: 85	Velocidad: 60
+ 460 	Abomasnow (Mega Abomasnow) 	HP: 90	Ataque: 132	Defensa: 105	Ataq. Esp: 132	Def. Esp: 105	Velocidad: 30
+ 461 	Weavile 	HP: 70	Ataque: 120	Defensa: 65	Ataq. Esp: 45	Def. Esp: 85	Velocidad: 125
+ 462 	Magnezone 	HP: 70	Ataque: 70	Defensa: 115	Ataq. Esp: 130	Def. Esp: 90	Velocidad: 60
+ 463 	Lickilicky 	HP: 110	Ataque: 85	Defensa: 95	Ataq. Esp: 80	Def. Esp: 95	Velocidad: 50
+ 464 	Rhyperior 	HP: 115	Ataque: 140	Defensa: 130	Ataq. Esp: 55	Def. Esp: 55	Velocidad: 40
+ 465 	Tangrowth 	HP: 100	Ataque: 100	Defensa: 125	Ataq. Esp: 110	Def. Esp: 50	Velocidad: 50
+ 466 	Electivire 	HP: 75	Ataque: 123	Defensa: 67	Ataq. Esp: 95	Def. Esp: 85	Velocidad: 95
+ 467 	Magmortar 	HP: 75	Ataque: 95	Defensa: 67	Ataq. Esp: 125	Def. Esp: 95	Velocidad: 83
+ 468 	Togekiss 	HP: 85	Ataque: 50	Defensa: 95	Ataq. Esp: 120	Def. Esp: 115	Velocidad: 80
+ 469 	Yanmega 	HP: 86	Ataque: 76	Defensa: 86	Ataq. Esp: 116	Def. Esp: 56	Velocidad: 95
+ 470 	Leafeon 	HP: 65	Ataque: 110	Defensa: 130	Ataq. Esp: 60	Def. Esp: 65	Velocidad: 95
+ 471 	Glaceon 	HP: 65	Ataque: 60	Defensa: 110	Ataq. Esp: 130	Def. Esp: 95	Velocidad: 65
+ 472 	Gliscor 	HP: 75	Ataque: 95	Defensa: 125	Ataq. Esp: 45	Def. Esp: 75	Velocidad: 95
+ 473 	Mamoswine 	HP: 110	Ataque: 130	Defensa: 80	Ataq. Esp: 70	Def. Esp: 60	Velocidad: 80
+ 474 	Porygon-Z 	HP: 85	Ataque: 80	Defensa: 70	Ataq. Esp: 135	Def. Esp: 75	Velocidad: 90
+ 475 	Gallade 	HP: 68	Ataque: 125	Defensa: 65	Ataq. Esp: 65	Def. Esp: 115	Velocidad: 80
+ 475 	Gallade (Mega Gallade) 	HP: 68	Ataque: 165	Defensa: 95	Ataq. Esp: 65	Def. Esp: 115	Velocidad: 110
+ 476 	Probopass 	HP: 60	Ataque: 55	Defensa: 145	Ataq. Esp: 75	Def. Esp: 150	Velocidad: 40
+ 477 	Dusknoir 	HP: 45	Ataque: 100	Defensa: 135	Ataq. Esp: 65	Def. Esp: 135	Velocidad: 45
+ 478 	Froslass 	HP: 70	Ataque: 80	Defensa: 70	Ataq. Esp: 80	Def. Esp: 70	Velocidad: 110
+ 479 	Rotom 	HP: 50	Ataque: 50	Defensa: 77	Ataq. Esp: 95	Def. Esp: 77	Velocidad: 91
+ 479 	Rotom (Heat Rotom) 	HP: 50	Ataque: 65	Defensa: 107	Ataq. Esp: 105	Def. Esp: 107	Velocidad: 86
+ 479 	Rotom (Wash Rotom) 	HP: 50	Ataque: 65	Defensa: 107	Ataq. Esp: 105	Def. Esp: 107	Velocidad: 86
+ 479 	Rotom (Frost Rotom) 	HP: 50	Ataque: 65	Defensa: 107	Ataq. Esp: 105	Def. Esp: 107	Velocidad: 86
+ 479 	Rotom (Fan Rotom) 	HP: 50	Ataque: 65	Defensa: 107	Ataq. Esp: 105	Def. Esp: 107	Velocidad: 86
+ 479 	Rotom (Mow Rotom) 	HP: 50	Ataque: 65	Defensa: 107	Ataq. Esp: 105	Def. Esp: 107	Velocidad: 86
+ 480 	Uxie 	HP: 75	Ataque: 75	Defensa: 130	Ataq. Esp: 75	Def. Esp: 130	Velocidad: 95
+ 481 	Mesprit 	HP: 80	Ataque: 105	Defensa: 105	Ataq. Esp: 105	Def. Esp: 105	Velocidad: 80
+ 482 	Azelf 	HP: 75	Ataque: 125	Defensa: 70	Ataq. Esp: 125	Def. Esp: 70	Velocidad: 115
+ 483 	Dialga 	HP: 100	Ataque: 120	Defensa: 120	Ataq. Esp: 150	Def. Esp: 100	Velocidad: 90
+ 484 	Palkia 	HP: 90	Ataque: 120	Defensa: 100	Ataq. Esp: 150	Def. Esp: 120	Velocidad: 100
+ 485 	Heatran 	HP: 91	Ataque: 90	Defensa: 106	Ataq. Esp: 130	Def. Esp: 106	Velocidad: 77
+ 486 	Regigigas 	HP: 110	Ataque: 160	Defensa: 110	Ataq. Esp: 80	Def. Esp: 110	Velocidad: 100
+ 487 	Giratina (Altered Forme) 	HP: 150	Ataque: 100	Defensa: 120	Ataq. Esp: 100	Def. Esp: 120	Velocidad: 90
+ 487 	Giratina (Origin Forme) 	HP: 150	Ataque: 120	Defensa: 100	Ataq. Esp: 120	Def. Esp: 100	Velocidad: 90
+ 488 	Cresselia 	HP: 120	Ataque: 70	Defensa: 120	Ataq. Esp: 75	Def. Esp: 130	Velocidad: 85
+ 489 	Phione 	HP: 80	Ataque: 80	Defensa: 80	Ataq. Esp: 80	Def. Esp: 80	Velocidad: 80
+ 490 	Manaphy 	HP: 100	Ataque: 100	Defensa: 100	Ataq. Esp: 100	Def. Esp: 100	Velocidad: 100
+ 491 	Darkrai 	HP: 70	Ataque: 90	Defensa: 90	Ataq. Esp: 135	Def. Esp: 90	Velocidad: 125
+ 492 	Shaymin (Land Forme) 	HP: 100	Ataque: 100	Defensa: 100	Ataq. Esp: 100	Def. Esp: 100	Velocidad: 100
+ 492 	Shaymin (Sky Forme) 	HP: 100	Ataque: 103	Defensa: 75	Ataq. Esp: 120	Def. Esp: 75	Velocidad: 127
+ 493 	Arceus 	HP: 120	Ataque: 120	Defensa: 120	Ataq. Esp: 120	Def. Esp: 120	Velocidad: 120
+ 494 	Victini 	HP: 100	Ataque: 100	Defensa: 100	Ataq. Esp: 100	Def. Esp: 100	Velocidad: 100
+ 495 	Snivy 	HP: 45	Ataque: 45	Defensa: 55	Ataq. Esp: 45	Def. Esp: 55	Velocidad: 63
+ 496 	Servine 	HP: 60	Ataque: 60	Defensa: 75	Ataq. Esp: 60	Def. Esp: 75	Velocidad: 83
+ 497 	Serperior 	HP: 75	Ataque: 75	Defensa: 95	Ataq. Esp: 75	Def. Esp: 95	Velocidad: 113
+ 498 	Tepig 	HP: 65	Ataque: 63	Defensa: 45	Ataq. Esp: 45	Def. Esp: 45	Velocidad: 45
+ 499 	Pignite 	HP: 90	Ataque: 93	Defensa: 55	Ataq. Esp: 70	Def. Esp: 55	Velocidad: 55
+ 500 	Emboar 	HP: 110	Ataque: 123	Defensa: 65	Ataq. Esp: 100	Def. Esp: 65	Velocidad: 65
+ 501 	Oshawott 	HP: 55	Ataque: 55	Defensa: 45	Ataq. Esp: 63	Def. Esp: 45	Velocidad: 45
+ 502 	Dewott 	HP: 75	Ataque: 75	Defensa: 60	Ataq. Esp: 83	Def. Esp: 60	Velocidad: 60
+ 503 	Samurott 	HP: 95	Ataque: 100	Defensa: 85	Ataq. Esp: 108	Def. Esp: 70	Velocidad: 70
+ 504 	Patrat 	HP: 45	Ataque: 55	Defensa: 39	Ataq. Esp: 35	Def. Esp: 39	Velocidad: 42
+ 505 	Watchog 	HP: 60	Ataque: 85	Defensa: 69	Ataq. Esp: 60	Def. Esp: 69	Velocidad: 77
+ 506 	Lillipup 	HP: 45	Ataque: 60	Defensa: 45	Ataq. Esp: 25	Def. Esp: 45	Velocidad: 55
+ 507 	Herdier 	HP: 65	Ataque: 80	Defensa: 65	Ataq. Esp: 35	Def. Esp: 65	Velocidad: 60
+ 508 	Stoutland 	HP: 85	Ataque: 110	Defensa: 90	Ataq. Esp: 45	Def. Esp: 90	Velocidad: 80
+ 509 	Purrloin 	HP: 41	Ataque: 50	Defensa: 37	Ataq. Esp: 50	Def. Esp: 37	Velocidad: 66
+ 510 	Liepard 	HP: 64	Ataque: 88	Defensa: 50	Ataq. Esp: 88	Def. Esp: 50	Velocidad: 106
+ 511 	Pansage 	HP: 50	Ataque: 53	Defensa: 48	Ataq. Esp: 53	Def. Esp: 48	Velocidad: 64
+ 512 	Simisage 	HP: 75	Ataque: 98	Defensa: 63	Ataq. Esp: 98	Def. Esp: 63	Velocidad: 101
+ 513 	Pansear 	HP: 50	Ataque: 53	Defensa: 48	Ataq. Esp: 53	Def. Esp: 48	Velocidad: 64
+ 514 	Simisear 	HP: 75	Ataque: 98	Defensa: 63	Ataq. Esp: 98	Def. Esp: 63	Velocidad: 101
+ 515 	Panpour 	HP: 50	Ataque: 53	Defensa: 48	Ataq. Esp: 53	Def. Esp: 48	Velocidad: 64
+ 516 	Simipour 	HP: 75	Ataque: 98	Defensa: 63	Ataq. Esp: 98	Def. Esp: 63	Velocidad: 101
+ 517 	Munna 	HP: 76	Ataque: 25	Defensa: 45	Ataq. Esp: 67	Def. Esp: 55	Velocidad: 24
+ 518 	Musharna 	HP: 116	Ataque: 55	Defensa: 85	Ataq. Esp: 107	Def. Esp: 95	Velocidad: 29
+ 519 	Pidove 	HP: 50	Ataque: 55	Defensa: 50	Ataq. Esp: 36	Def. Esp: 30	Velocidad: 43
+ 520 	Tranquill 	HP: 62	Ataque: 77	Defensa: 62	Ataq. Esp: 50	Def. Esp: 42	Velocidad: 65
+ 521 	Unfezant 	HP: 80	Ataque: 115	Defensa: 80	Ataq. Esp: 65	Def. Esp: 55	Velocidad: 93
+ 522 	Blitzle 	HP: 45	Ataque: 60	Defensa: 32	Ataq. Esp: 50	Def. Esp: 32	Velocidad: 76
+ 523 	Zebstrika 	HP: 75	Ataque: 100	Defensa: 63	Ataq. Esp: 80	Def. Esp: 63	Velocidad: 116
+ 524 	Roggenrola 	HP: 55	Ataque: 75	Defensa: 85	Ataq. Esp: 25	Def. Esp: 25	Velocidad: 15
+ 525 	Boldore 	HP: 70	Ataque: 105	Defensa: 105	Ataq. Esp: 50	Def. Esp: 40	Velocidad: 20
+ 526 	Gigalith 	HP: 85	Ataque: 135	Defensa: 130	Ataq. Esp: 60	Def. Esp: 80	Velocidad: 25
+ 527 	Woobat 	HP: 65	Ataque: 45	Defensa: 43	Ataq. Esp: 55	Def. Esp: 43	Velocidad: 72
+ 528 	Swoobat 	HP: 67	Ataque: 57	Defensa: 55	Ataq. Esp: 77	Def. Esp: 55	Velocidad: 114
+ 529 	Drilbur 	HP: 60	Ataque: 85	Defensa: 40	Ataq. Esp: 30	Def. Esp: 45	Velocidad: 68
+ 530 	Excadrill 	HP: 110	Ataque: 135	Defensa: 60	Ataq. Esp: 50	Def. Esp: 65	Velocidad: 88
+ 531 	Audino 	HP: 103	Ataque: 60	Defensa: 86	Ataq. Esp: 60	Def. Esp: 86	Velocidad: 50
+ 531 	Audino (Mega Audino) 	HP: 103	Ataque: 60	Defensa: 126	Ataq. Esp: 80	Def. Esp: 126	Velocidad: 50
+ 532 	Timburr 	HP: 75	Ataque: 80	Defensa: 55	Ataq. Esp: 25	Def. Esp: 35	Velocidad: 35
+ 533 	Gurdurr 	HP: 85	Ataque: 105	Defensa: 85	Ataq. Esp: 40	Def. Esp: 50	Velocidad: 40
+ 534 	Conkeldurr 	HP: 105	Ataque: 140	Defensa: 95	Ataq. Esp: 55	Def. Esp: 65	Velocidad: 45
+ 535 	Tympole 	HP: 50	Ataque: 50	Defensa: 40	Ataq. Esp: 50	Def. Esp: 40	Velocidad: 64
+ 536 	Palpitoad 	HP: 75	Ataque: 65	Defensa: 55	Ataq. Esp: 65	Def. Esp: 55	Velocidad: 69
+ 537 	Seismitoad 	HP: 105	Ataque: 95	Defensa: 75	Ataq. Esp: 85	Def. Esp: 75	Velocidad: 74
+ 538 	Throh 	HP: 120	Ataque: 100	Defensa: 85	Ataq. Esp: 30	Def. Esp: 85	Velocidad: 45
+ 539 	Sawk 	HP: 75	Ataque: 125	Defensa: 75	Ataq. Esp: 30	Def. Esp: 75	Velocidad: 85
+ 540 	Sewaddle 	HP: 45	Ataque: 53	Defensa: 70	Ataq. Esp: 40	Def. Esp: 60	Velocidad: 42
+ 541 	Swadloon 	HP: 55	Ataque: 63	Defensa: 90	Ataq. Esp: 50	Def. Esp: 80	Velocidad: 42
+ 542 	Leavanny 	HP: 75	Ataque: 103	Defensa: 80	Ataq. Esp: 70	Def. Esp: 80	Velocidad: 92
+ 543 	Venipede 	HP: 30	Ataque: 45	Defensa: 59	Ataq. Esp: 30	Def. Esp: 39	Velocidad: 57
+ 544 	Whirlipede 	HP: 40	Ataque: 55	Defensa: 99	Ataq. Esp: 40	Def. Esp: 79	Velocidad: 47
+ 545 	Scolipede 	HP: 60	Ataque: 100	Defensa: 89	Ataq. Esp: 55	Def. Esp: 69	Velocidad: 112
+ 546 	Cottonee 	HP: 40	Ataque: 27	Defensa: 60	Ataq. Esp: 37	Def. Esp: 50	Velocidad: 66
+ 547 	Whimsicott 	HP: 60	Ataque: 67	Defensa: 85	Ataq. Esp: 77	Def. Esp: 75	Velocidad: 116
+ 548 	Petilil 	HP: 45	Ataque: 35	Defensa: 50	Ataq. Esp: 70	Def. Esp: 50	Velocidad: 30
+ 549 	Lilligant 	HP: 70	Ataque: 60	Defensa: 75	Ataq. Esp: 110	Def. Esp: 75	Velocidad: 90
+ 550 	Basculin 	HP: 70	Ataque: 92	Defensa: 65	Ataq. Esp: 80	Def. Esp: 55	Velocidad: 98
+ 551 	Sandile 	HP: 50	Ataque: 72	Defensa: 35	Ataq. Esp: 35	Def. Esp: 35	Velocidad: 65
+ 552 	Krokorok 	HP: 60	Ataque: 82	Defensa: 45	Ataq. Esp: 45	Def. Esp: 45	Velocidad: 74
+ 553 	Krookodile 	HP: 95	Ataque: 117	Defensa: 80	Ataq. Esp: 65	Def. Esp: 70	Velocidad: 92
+ 554 	Darumaka 	HP: 70	Ataque: 90	Defensa: 45	Ataq. Esp: 15	Def. Esp: 45	Velocidad: 50
+ 555 	Darmanitan (Standard Mode) 	HP: 105	Ataque: 140	Defensa: 55	Ataq. Esp: 30	Def. Esp: 55	Velocidad: 95
+ 555 	Darmanitan (Zen Mode) 	HP: 105	Ataque: 30	Defensa: 105	Ataq. Esp: 140	Def. Esp: 105	Velocidad: 55
+ 556 	Maractus 	HP: 75	Ataque: 86	Defensa: 67	Ataq. Esp: 106	Def. Esp: 67	Velocidad: 60
+ 557 	Dwebble 	HP: 50	Ataque: 65	Defensa: 85	Ataq. Esp: 35	Def. Esp: 35	Velocidad: 55
+ 558 	Crustle 	HP: 70	Ataque: 105	Defensa: 125	Ataq. Esp: 65	Def. Esp: 75	Velocidad: 45
+ 559 	Scraggy 	HP: 50	Ataque: 75	Defensa: 70	Ataq. Esp: 35	Def. Esp: 70	Velocidad: 48
+ 560 	Scrafty 	HP: 65	Ataque: 90	Defensa: 115	Ataq. Esp: 45	Def. Esp: 115	Velocidad: 58
+ 561 	Sigilyph 	HP: 72	Ataque: 58	Defensa: 80	Ataq. Esp: 103	Def. Esp: 80	Velocidad: 97
+ 562 	Yamask 	HP: 38	Ataque: 30	Defensa: 85	Ataq. Esp: 55	Def. Esp: 65	Velocidad: 30
+ 563 	Cofagrigus 	HP: 58	Ataque: 50	Defensa: 145	Ataq. Esp: 95	Def. Esp: 105	Velocidad: 30
+ 564 	Tirtouga 	HP: 54	Ataque: 78	Defensa: 103	Ataq. Esp: 53	Def. Esp: 45	Velocidad: 22
+ 565 	Carracosta 	HP: 74	Ataque: 108	Defensa: 133	Ataq. Esp: 83	Def. Esp: 65	Velocidad: 32
+ 566 	Archen 	HP: 55	Ataque: 112	Defensa: 45	Ataq. Esp: 74	Def. Esp: 45	Velocidad: 70
+ 567 	Archeops 	HP: 75	Ataque: 140	Defensa: 65	Ataq. Esp: 112	Def. Esp: 65	Velocidad: 110
+ 568 	Trubbish 	HP: 50	Ataque: 50	Defensa: 62	Ataq. Esp: 40	Def. Esp: 62	Velocidad: 65
+ 569 	Garbodor 	HP: 80	Ataque: 95	Defensa: 82	Ataq. Esp: 60	Def. Esp: 82	Velocidad: 75
+ 570 	Zorua 	HP: 40	Ataque: 65	Defensa: 40	Ataq. Esp: 80	Def. Esp: 40	Velocidad: 65
+ 571 	Zoroark 	HP: 60	Ataque: 105	Defensa: 60	Ataq. Esp: 120	Def. Esp: 60	Velocidad: 105
+ 572 	Minccino 	HP: 55	Ataque: 50	Defensa: 40	Ataq. Esp: 40	Def. Esp: 40	Velocidad: 75
+ 573 	Cinccino 	HP: 75	Ataque: 95	Defensa: 60	Ataq. Esp: 65	Def. Esp: 60	Velocidad: 115
+ 574 	Gothita 	HP: 45	Ataque: 30	Defensa: 50	Ataq. Esp: 55	Def. Esp: 65	Velocidad: 45
+ 575 	Gothorita 	HP: 60	Ataque: 45	Defensa: 70	Ataq. Esp: 75	Def. Esp: 85	Velocidad: 55
+ 576 	Gothitelle 	HP: 70	Ataque: 55	Defensa: 95	Ataq. Esp: 95	Def. Esp: 110	Velocidad: 65
+ 577 	Solosis 	HP: 45	Ataque: 30	Defensa: 40	Ataq. Esp: 105	Def. Esp: 50	Velocidad: 20
+ 578 	Duosion 	HP: 65	Ataque: 40	Defensa: 50	Ataq. Esp: 125	Def. Esp: 60	Velocidad: 30
+ 579 	Reuniclus 	HP: 110	Ataque: 65	Defensa: 75	Ataq. Esp: 125	Def. Esp: 85	Velocidad: 30
+ 580 	Ducklett 	HP: 62	Ataque: 44	Defensa: 50	Ataq. Esp: 44	Def. Esp: 50	Velocidad: 55
+ 581 	Swanna 	HP: 75	Ataque: 87	Defensa: 63	Ataq. Esp: 87	Def. Esp: 63	Velocidad: 98
+ 582 	Vanillite 	HP: 36	Ataque: 50	Defensa: 50	Ataq. Esp: 65	Def. Esp: 60	Velocidad: 44
+ 583 	Vanillish 	HP: 51	Ataque: 65	Defensa: 65	Ataq. Esp: 80	Def. Esp: 75	Velocidad: 59
+ 584 	Vanilluxe 	HP: 71	Ataque: 95	Defensa: 85	Ataq. Esp: 110	Def. Esp: 95	Velocidad: 79
+ 585 	Deerling 	HP: 60	Ataque: 60	Defensa: 50	Ataq. Esp: 40	Def. Esp: 50	Velocidad: 75
+ 586 	Sawsbuck 	HP: 80	Ataque: 100	Defensa: 70	Ataq. Esp: 60	Def. Esp: 70	Velocidad: 95
+ 587 	Emolga 	HP: 55	Ataque: 75	Defensa: 60	Ataq. Esp: 75	Def. Esp: 60	Velocidad: 103
+ 588 	Karrablast 	HP: 50	Ataque: 75	Defensa: 45	Ataq. Esp: 40	Def. Esp: 45	Velocidad: 60
+ 589 	Escavalier 	HP: 70	Ataque: 135	Defensa: 105	Ataq. Esp: 60	Def. Esp: 105	Velocidad: 20
+ 590 	Foongus 	HP: 69	Ataque: 55	Defensa: 45	Ataq. Esp: 55	Def. Esp: 55	Velocidad: 15
+ 591 	Amoonguss 	HP: 114	Ataque: 85	Defensa: 70	Ataq. Esp: 85	Def. Esp: 80	Velocidad: 30
+ 592 	Frillish 	HP: 55	Ataque: 40	Defensa: 50	Ataq. Esp: 65	Def. Esp: 85	Velocidad: 40
+ 593 	Jellicent 	HP: 100	Ataque: 60	Defensa: 70	Ataq. Esp: 85	Def. Esp: 105	Velocidad: 60
+ 594 	Alomomola 	HP: 165	Ataque: 75	Defensa: 80	Ataq. Esp: 40	Def. Esp: 45	Velocidad: 65
+ 595 	Joltik 	HP: 50	Ataque: 47	Defensa: 50	Ataq. Esp: 57	Def. Esp: 50	Velocidad: 65
+ 596 	Galvantula 	HP: 70	Ataque: 77	Defensa: 60	Ataq. Esp: 97	Def. Esp: 60	Velocidad: 108
+ 597 	Ferroseed 	HP: 44	Ataque: 50	Defensa: 91	Ataq. Esp: 24	Def. Esp: 86	Velocidad: 10
+ 598 	Ferrothorn 	HP: 74	Ataque: 94	Defensa: 131	Ataq. Esp: 54	Def. Esp: 116	Velocidad: 20
+ 599 	Klink 	HP: 40	Ataque: 55	Defensa: 70	Ataq. Esp: 45	Def. Esp: 60	Velocidad: 30
+ 600 	Klang 	HP: 60	Ataque: 80	Defensa: 95	Ataq. Esp: 70	Def. Esp: 85	Velocidad: 50
+ 601 	Klinklang 	HP: 60	Ataque: 100	Defensa: 115	Ataq. Esp: 70	Def. Esp: 85	Velocidad: 90
+ 602 	Tynamo 	HP: 35	Ataque: 55	Defensa: 40	Ataq. Esp: 45	Def. Esp: 40	Velocidad: 60
+ 603 	Eelektrik 	HP: 65	Ataque: 85	Defensa: 70	Ataq. Esp: 75	Def. Esp: 70	Velocidad: 40
+ 604 	Eelektross 	HP: 85	Ataque: 115	Defensa: 80	Ataq. Esp: 105	Def. Esp: 80	Velocidad: 50
+ 605 	Elgyem 	HP: 55	Ataque: 55	Defensa: 55	Ataq. Esp: 85	Def. Esp: 55	Velocidad: 30
+ 606 	Beheeyem 	HP: 75	Ataque: 75	Defensa: 75	Ataq. Esp: 125	Def. Esp: 95	Velocidad: 40
+ 607 	Litwick 	HP: 50	Ataque: 30	Defensa: 55	Ataq. Esp: 65	Def. Esp: 55	Velocidad: 20
+ 608 	Lampent 	HP: 60	Ataque: 40	Defensa: 60	Ataq. Esp: 95	Def. Esp: 60	Velocidad: 55
+ 609 	Chandelure 	HP: 60	Ataque: 55	Defensa: 90	Ataq. Esp: 145	Def. Esp: 90	Velocidad: 80
+ 610 	Axew 	HP: 46	Ataque: 87	Defensa: 60	Ataq. Esp: 30	Def. Esp: 40	Velocidad: 57
+ 611 	Fraxure 	HP: 66	Ataque: 117	Defensa: 70	Ataq. Esp: 40	Def. Esp: 50	Velocidad: 67
+ 612 	Haxorus 	HP: 76	Ataque: 147	Defensa: 90	Ataq. Esp: 60	Def. Esp: 70	Velocidad: 97
+ 613 	Cubchoo 	HP: 55	Ataque: 70	Defensa: 40	Ataq. Esp: 60	Def. Esp: 40	Velocidad: 40
+ 614 	Beartic 	HP: 95	Ataque: 130	Defensa: 80	Ataq. Esp: 70	Def. Esp: 80	Velocidad: 50
+ 615 	Cryogonal 	HP: 80	Ataque: 50	Defensa: 50	Ataq. Esp: 95	Def. Esp: 135	Velocidad: 105
+ 616 	Shelmet 	HP: 50	Ataque: 40	Defensa: 85	Ataq. Esp: 40	Def. Esp: 65	Velocidad: 25
+ 617 	Accelgor 	HP: 80	Ataque: 70	Defensa: 40	Ataq. Esp: 100	Def. Esp: 60	Velocidad: 145
+ 618 	Stunfisk 	HP: 109	Ataque: 66	Defensa: 84	Ataq. Esp: 81	Def. Esp: 99	Velocidad: 32
+ 619 	Mienfoo 	HP: 45	Ataque: 85	Defensa: 50	Ataq. Esp: 55	Def. Esp: 50	Velocidad: 65
+ 620 	Mienshao 	HP: 65	Ataque: 125	Defensa: 60	Ataq. Esp: 95	Def. Esp: 60	Velocidad: 105
+ 621 	Druddigon 	HP: 77	Ataque: 120	Defensa: 90	Ataq. Esp: 60	Def. Esp: 90	Velocidad: 48
+ 622 	Golett 	HP: 59	Ataque: 74	Defensa: 50	Ataq. Esp: 35	Def. Esp: 50	Velocidad: 35
+ 623 	Golurk 	HP: 89	Ataque: 124	Defensa: 80	Ataq. Esp: 55	Def. Esp: 80	Velocidad: 55
+ 624 	Pawniard 	HP: 45	Ataque: 85	Defensa: 70	Ataq. Esp: 40	Def. Esp: 40	Velocidad: 60
+ 625 	Bisharp 	HP: 65	Ataque: 125	Defensa: 100	Ataq. Esp: 60	Def. Esp: 70	Velocidad: 70
+ 626 	Bouffalant 	HP: 95	Ataque: 110	Defensa: 95	Ataq. Esp: 40	Def. Esp: 95	Velocidad: 55
+ 627 	Rufflet 	HP: 70	Ataque: 83	Defensa: 50	Ataq. Esp: 37	Def. Esp: 50	Velocidad: 60
+ 628 	Braviary 	HP: 100	Ataque: 123	Defensa: 75	Ataq. Esp: 57	Def. Esp: 75	Velocidad: 80
+ 629 	Vullaby 	HP: 70	Ataque: 55	Defensa: 75	Ataq. Esp: 45	Def. Esp: 65	Velocidad: 60
+ 630 	Mandibuzz 	HP: 110	Ataque: 65	Defensa: 105	Ataq. Esp: 55	Def. Esp: 95	Velocidad: 80
+ 631 	Heatmor 	HP: 85	Ataque: 97	Defensa: 66	Ataq. Esp: 105	Def. Esp: 66	Velocidad: 65
+ 632 	Durant 	HP: 58	Ataque: 109	Defensa: 112	Ataq. Esp: 48	Def. Esp: 48	Velocidad: 109
+ 633 	Deino 	HP: 52	Ataque: 65	Defensa: 50	Ataq. Esp: 45	Def. Esp: 50	Velocidad: 38
+ 634 	Zweilous 	HP: 72	Ataque: 85	Defensa: 70	Ataq. Esp: 65	Def. Esp: 70	Velocidad: 58
+ 635 	Hydreigon 	HP: 92	Ataque: 105	Defensa: 90	Ataq. Esp: 125	Def. Esp: 90	Velocidad: 98
+ 636 	Larvesta 	HP: 55	Ataque: 85	Defensa: 55	Ataq. Esp: 50	Def. Esp: 55	Velocidad: 60
+ 637 	Volcarona 	HP: 85	Ataque: 60	Defensa: 65	Ataq. Esp: 135	Def. Esp: 105	Velocidad: 100
+ 638 	Cobalion 	HP: 91	Ataque: 90	Defensa: 129	Ataq. Esp: 90	Def. Esp: 72	Velocidad: 108
+ 639 	Terrakion 	HP: 91	Ataque: 129	Defensa: 90	Ataq. Esp: 72	Def. Esp: 90	Velocidad: 108
+ 640 	Virizion 	HP: 91	Ataque: 90	Defensa: 72	Ataq. Esp: 90	Def. Esp: 129	Velocidad: 108
+ 641 	Tornadus (Incarnate Forme) 	HP: 79	Ataque: 115	Defensa: 70	Ataq. Esp: 125	Def. Esp: 80	Velocidad: 111
+ 641 	Tornadus (Therian Forme) 	HP: 79	Ataque: 100	Defensa: 80	Ataq. Esp: 110	Def. Esp: 90	Velocidad: 121
+ 642 	Thundurus (Incarnate Forme) 	HP: 79	Ataque: 115	Defensa: 70	Ataq. Esp: 125	Def. Esp: 80	Velocidad: 111
+ 642 	Thundurus (Therian Forme) 	HP: 79	Ataque: 105	Defensa: 70	Ataq. Esp: 145	Def. Esp: 80	Velocidad: 101
+ 643 	Reshiram 	HP: 100	Ataque: 120	Defensa: 100	Ataq. Esp: 150	Def. Esp: 120	Velocidad: 90
+ 644 	Zekrom 	HP: 100	Ataque: 150	Defensa: 120	Ataq. Esp: 120	Def. Esp: 100	Velocidad: 90
+ 645 	Landorus (Incarnate Forme) 	HP: 89	Ataque: 125	Defensa: 90	Ataq. Esp: 115	Def. Esp: 80	Velocidad: 101
+ 645 	Landorus (Therian Forme) 	HP: 89	Ataque: 145	Defensa: 90	Ataq. Esp: 105	Def. Esp: 80	Velocidad: 91
+ 646 	Kyurem (Normal Kyurem) 	HP: 125	Ataque: 130	Defensa: 90	Ataq. Esp: 130	Def. Esp: 90	Velocidad: 95
+ 646 	Kyurem (Black Kyurem) 	HP: 125	Ataque: 170	Defensa: 100	Ataq. Esp: 120	Def. Esp: 90	Velocidad: 95
+ 646 	Kyurem (White Kyurem) 	HP: 125	Ataque: 120	Defensa: 90	Ataq. Esp: 170	Def. Esp: 100	Velocidad: 95
+ 647 	Keldeo 	HP: 91	Ataque: 72	Defensa: 90	Ataq. Esp: 129	Def. Esp: 90	Velocidad: 108
+ 648 	Meloetta (Aria Forme) 	HP: 100	Ataque: 77	Defensa: 77	Ataq. Esp: 128	Def. Esp: 128	Velocidad: 90
+ 648 	Meloetta (Pirouette Forme) 	HP: 100	Ataque: 128	Defensa: 90	Ataq. Esp: 77	Def. Esp: 77	Velocidad: 128
+ 649 	Genesect 	HP: 71	Ataque: 120	Defensa: 95	Ataq. Esp: 120	Def. Esp: 95	Velocidad: 99
+ 650 	Chespin 	HP: 56	Ataque: 61	Defensa: 65	Ataq. Esp: 48	Def. Esp: 45	Velocidad: 38
+ 651 	Quilladin 	HP: 61	Ataque: 78	Defensa: 95	Ataq. Esp: 56	Def. Esp: 58	Velocidad: 57
+ 652 	Chesnaught 	HP: 88	Ataque: 107	Defensa: 122	Ataq. Esp: 74	Def. Esp: 75	Velocidad: 64
+ 653 	Fennekin 	HP: 40	Ataque: 45	Defensa: 40	Ataq. Esp: 62	Def. Esp: 60	Velocidad: 60
+ 654 	Braixen 	HP: 59	Ataque: 59	Defensa: 58	Ataq. Esp: 90	Def. Esp: 70	Velocidad: 73
+ 655 	Delphox 	HP: 75	Ataque: 69	Defensa: 72	Ataq. Esp: 114	Def. Esp: 100	Velocidad: 104
+ 656 	Froakie 	HP: 41	Ataque: 56	Defensa: 40	Ataq. Esp: 62	Def. Esp: 44	Velocidad: 71
+ 657 	Frogadier 	HP: 54	Ataque: 63	Defensa: 52	Ataq. Esp: 83	Def. Esp: 56	Velocidad: 97
+ 658 	Greninja 	HP: 72	Ataque: 95	Defensa: 67	Ataq. Esp: 103	Def. Esp: 71	Velocidad: 122
+ 658 	Greninja (Ash-Greninja) 	HP: 72	Ataque: 145	Defensa: 67	Ataq. Esp: 153	Def. Esp: 71	Velocidad: 132
+ 659 	Bunnelby 	HP: 38	Ataque: 36	Defensa: 38	Ataq. Esp: 32	Def. Esp: 36	Velocidad: 57
+ 660 	Diggersby 	HP: 85	Ataque: 56	Defensa: 77	Ataq. Esp: 50	Def. Esp: 77	Velocidad: 78
+ 661 	Fletchling 	HP: 45	Ataque: 50	Defensa: 43	Ataq. Esp: 40	Def. Esp: 38	Velocidad: 62
+ 662 	Fletchinder 	HP: 62	Ataque: 73	Defensa: 55	Ataq. Esp: 56	Def. Esp: 52	Velocidad: 84
+ 663 	Talonflame 	HP: 78	Ataque: 81	Defensa: 71	Ataq. Esp: 74	Def. Esp: 69	Velocidad: 126
+ 664 	Scatterbug 	HP: 38	Ataque: 35	Defensa: 40	Ataq. Esp: 27	Def. Esp: 25	Velocidad: 35
+ 665 	Spewpa 	HP: 45	Ataque: 22	Defensa: 60	Ataq. Esp: 27	Def. Esp: 30	Velocidad: 29
+ 666 	Vivillon 	HP: 80	Ataque: 52	Defensa: 50	Ataq. Esp: 90	Def. Esp: 50	Velocidad: 89
+ 667 	Litleo 	HP: 62	Ataque: 50	Defensa: 58	Ataq. Esp: 73	Def. Esp: 54	Velocidad: 72
+ 668 	Pyroar 	HP: 86	Ataque: 68	Defensa: 72	Ataq. Esp: 109	Def. Esp: 66	Velocidad: 106
+ 669 	Flabébé 	HP: 44	Ataque: 38	Defensa: 39	Ataq. Esp: 61	Def. Esp: 79	Velocidad: 42
+ 670 	Floette 	HP: 54	Ataque: 45	Defensa: 47	Ataq. Esp: 75	Def. Esp: 98	Velocidad: 52
+ 671 	Florges 	HP: 78	Ataque: 65	Defensa: 68	Ataq. Esp: 112	Def. Esp: 154	Velocidad: 75
+ 672 	Skiddo 	HP: 66	Ataque: 65	Defensa: 48	Ataq. Esp: 62	Def. Esp: 57	Velocidad: 52
+ 673 	Gogoat 	HP: 123	Ataque: 100	Defensa: 62	Ataq. Esp: 97	Def. Esp: 81	Velocidad: 68
+ 674 	Pancham 	HP: 67	Ataque: 82	Defensa: 62	Ataq. Esp: 46	Def. Esp: 48	Velocidad: 43
+ 675 	Pangoro 	HP: 95	Ataque: 124	Defensa: 78	Ataq. Esp: 69	Def. Esp: 71	Velocidad: 58
+ 676 	Furfrou 	HP: 75	Ataque: 80	Defensa: 60	Ataq. Esp: 65	Def. Esp: 90	Velocidad: 102
+ 677 	Espurr 	HP: 62	Ataque: 48	Defensa: 54	Ataq. Esp: 63	Def. Esp: 60	Velocidad: 68
+ 678 	Meowstic 	HP: 74	Ataque: 48	Defensa: 76	Ataq. Esp: 83	Def. Esp: 81	Velocidad: 104
+ 679 	Honedge 	HP: 45	Ataque: 80	Defensa: 100	Ataq. Esp: 35	Def. Esp: 37	Velocidad: 28
+ 680 	Doublade 	HP: 59	Ataque: 110	Defensa: 150	Ataq. Esp: 45	Def. Esp: 49	Velocidad: 35
+ 681 	Aegislash (Shield Forme) 	HP: 60	Ataque: 50	Defensa: 150	Ataq. Esp: 50	Def. Esp: 150	Velocidad: 60
+ 681 	Aegislash (Blade Forme) 	HP: 60	Ataque: 150	Defensa: 50	Ataq. Esp: 150	Def. Esp: 50	Velocidad: 60
+ 682 	Spritzee 	HP: 78	Ataque: 52	Defensa: 60	Ataq. Esp: 63	Def. Esp: 65	Velocidad: 23
+ 683 	Aromatisse 	HP: 101	Ataque: 72	Defensa: 72	Ataq. Esp: 99	Def. Esp: 89	Velocidad: 29
+ 684 	Swirlix 	HP: 62	Ataque: 48	Defensa: 66	Ataq. Esp: 59	Def. Esp: 57	Velocidad: 49
+ 685 	Slurpuff 	HP: 82	Ataque: 80	Defensa: 86	Ataq. Esp: 85	Def. Esp: 75	Velocidad: 72
+ 686 	Inkay 	HP: 53	Ataque: 54	Defensa: 53	Ataq. Esp: 37	Def. Esp: 46	Velocidad: 45
+ 687 	Malamar 	HP: 86	Ataque: 92	Defensa: 88	Ataq. Esp: 68	Def. Esp: 75	Velocidad: 73
+ 688 	Binacle 	HP: 42	Ataque: 52	Defensa: 67	Ataq. Esp: 39	Def. Esp: 56	Velocidad: 50
+ 689 	Barbaracle 	HP: 72	Ataque: 105	Defensa: 115	Ataq. Esp: 54	Def. Esp: 86	Velocidad: 68
+ 690 	Skrelp 	HP: 50	Ataque: 60	Defensa: 60	Ataq. Esp: 60	Def. Esp: 60	Velocidad: 30
+ 691 	Dragalge 	HP: 65	Ataque: 75	Defensa: 90	Ataq. Esp: 97	Def. Esp: 123	Velocidad: 44
+ 692 	Clauncher 	HP: 50	Ataque: 53	Defensa: 62	Ataq. Esp: 58	Def. Esp: 63	Velocidad: 44
+ 693 	Clawitzer 	HP: 71	Ataque: 73	Defensa: 88	Ataq. Esp: 120	Def. Esp: 89	Velocidad: 59
+ 694 	Helioptile 	HP: 44	Ataque: 38	Defensa: 33	Ataq. Esp: 61	Def. Esp: 43	Velocidad: 70
+ 695 	Heliolisk 	HP: 62	Ataque: 55	Defensa: 52	Ataq. Esp: 109	Def. Esp: 94	Velocidad: 109
+ 696 	Tyrunt 	HP: 58	Ataque: 89	Defensa: 77	Ataq. Esp: 45	Def. Esp: 45	Velocidad: 48
+ 697 	Tyrantrum 	HP: 82	Ataque: 121	Defensa: 119	Ataq. Esp: 69	Def. Esp: 59	Velocidad: 71
+ 698 	Amaura 	HP: 77	Ataque: 59	Defensa: 50	Ataq. Esp: 67	Def. Esp: 63	Velocidad: 46
+ 699 	Aurorus 	HP: 123	Ataque: 77	Defensa: 72	Ataq. Esp: 99	Def. Esp: 92	Velocidad: 58
+ 700 	Sylveon 	HP: 95	Ataque: 65	Defensa: 65	Ataq. Esp: 110	Def. Esp: 130	Velocidad: 60
+ 701 	Hawlucha 	HP: 78	Ataque: 92	Defensa: 75	Ataq. Esp: 74	Def. Esp: 63	Velocidad: 118
+ 702 	Dedenne 	HP: 67	Ataque: 58	Defensa: 57	Ataq. Esp: 81	Def. Esp: 67	Velocidad: 101
+ 703 	Carbink 	HP: 50	Ataque: 50	Defensa: 150	Ataq. Esp: 50	Def. Esp: 150	Velocidad: 50
+ 704 	Goomy 	HP: 45	Ataque: 50	Defensa: 35	Ataq. Esp: 55	Def. Esp: 75	Velocidad: 40
+ 705 	Sliggoo 	HP: 68	Ataque: 75	Defensa: 53	Ataq. Esp: 83	Def. Esp: 113	Velocidad: 60
+ 706 	Goodra 	HP: 90	Ataque: 100	Defensa: 70	Ataq. Esp: 110	Def. Esp: 150	Velocidad: 80
+ 707 	Klefki 	HP: 57	Ataque: 80	Defensa: 91	Ataq. Esp: 80	Def. Esp: 87	Velocidad: 75
+ 708 	Phantump 	HP: 43	Ataque: 70	Defensa: 48	Ataq. Esp: 50	Def. Esp: 60	Velocidad: 38
+ 709 	Trevenant 	HP: 85	Ataque: 110	Defensa: 76	Ataq. Esp: 65	Def. Esp: 82	Velocidad: 56
+ 710 	Pumpkaboo (Small Size) 	HP: 44	Ataque: 66	Defensa: 70	Ataq. Esp: 44	Def. Esp: 55	Velocidad: 56
+ 710 	Pumpkaboo (Average Size) 	HP: 49	Ataque: 66	Defensa: 70	Ataq. Esp: 44	Def. Esp: 55	Velocidad: 51
+ 710 	Pumpkaboo (Large Size) 	HP: 54	Ataque: 66	Defensa: 70	Ataq. Esp: 44	Def. Esp: 55	Velocidad: 46
+ 710 	Pumpkaboo (Super Size) 	HP: 59	Ataque: 66	Defensa: 70	Ataq. Esp: 44	Def. Esp: 55	Velocidad: 41
+ 711 	Gourgeist (Small Size) 	HP: 55	Ataque: 85	Defensa: 122	Ataq. Esp: 58	Def. Esp: 75	Velocidad: 99
+ 711 	Gourgeist (Average Size) 	HP: 65	Ataque: 90	Defensa: 122	Ataq. Esp: 58	Def. Esp: 75	Velocidad: 84
+ 711 	Gourgeist (Large Size) 	HP: 75	Ataque: 95	Defensa: 122	Ataq. Esp: 58	Def. Esp: 75	Velocidad: 69
+ 711 	Gourgeist (Super Size) 	HP: 85	Ataque: 100	Defensa: 122	Ataq. Esp: 58	Def. Esp: 75	Velocidad: 54
+ 712 	Bergmite 	HP: 55	Ataque: 69	Defensa: 85	Ataq. Esp: 32	Def. Esp: 35	Velocidad: 28
+ 713 	Avalugg 	HP: 95	Ataque: 117	Defensa: 184	Ataq. Esp: 44	Def. Esp: 46	Velocidad: 28
+ 714 	Noibat 	HP: 40	Ataque: 30	Defensa: 35	Ataq. Esp: 45	Def. Esp: 40	Velocidad: 55
+ 715 	Noivern 	HP: 85	Ataque: 70	Defensa: 80	Ataq. Esp: 97	Def. Esp: 80	Velocidad: 123
+ 716 	Xerneas 	HP: 126	Ataque: 131	Defensa: 95	Ataq. Esp: 131	Def. Esp: 98	Velocidad: 99
+ 717 	Yveltal 	HP: 126	Ataque: 131	Defensa: 95	Ataq. Esp: 131	Def. Esp: 98	Velocidad: 99
+ 718 	Zygarde (50% Forme) 	HP: 108	Ataque: 100	Defensa: 121	Ataq. Esp: 81	Def. Esp: 95	Velocidad: 95
+ 718 	Zygarde (10% Forme) 	HP: 54	Ataque: 100	Defensa: 71	Ataq. Esp: 61	Def. Esp: 85	Velocidad: 115
+ 718 	Zygarde (Complete Forme) 	HP: 216	Ataque: 100	Defensa: 121	Ataq. Esp: 91	Def. Esp: 95	Velocidad: 85
+ 719 	Diancie 	HP: 50	Ataque: 100	Defensa: 150	Ataq. Esp: 100	Def. Esp: 150	Velocidad: 50
+ 719 	Diancie (Mega Diancie) 	HP: 50	Ataque: 160	Defensa: 110	Ataq. Esp: 160	Def. Esp: 110	Velocidad: 110
+ 720 	Hoopa (Hoopa Confined) 	HP: 80	Ataque: 110	Defensa: 60	Ataq. Esp: 150	Def. Esp: 130	Velocidad: 70
+ 720 	Hoopa (Hoopa Unbound) 	HP: 80	Ataque: 160	Defensa: 60	Ataq. Esp: 170	Def. Esp: 130	Velocidad: 80
+ 721 	Volcanion 	HP: 80	Ataque: 110	Defensa: 120	Ataq. Esp: 130	Def. Esp: 90	Velocidad: 70
+ 722 	Rowlet 	HP: 68	Ataque: 55	Defensa: 55	Ataq. Esp: 50	Def. Esp: 50	Velocidad: 42
+ 723 	Dartrix 	HP: 78	Ataque: 75	Defensa: 75	Ataq. Esp: 70	Def. Esp: 70	Velocidad: 52
+ 724 	Decidueye 	HP: 78	Ataque: 107	Defensa: 75	Ataq. Esp: 100	Def. Esp: 100	Velocidad: 70
+ 725 	Litten 	HP: 45	Ataque: 65	Defensa: 40	Ataq. Esp: 60	Def. Esp: 40	Velocidad: 70
+ 726 	Torracat 	HP: 65	Ataque: 85	Defensa: 50	Ataq. Esp: 80	Def. Esp: 50	Velocidad: 90
+ 727 	Incineroar 	HP: 95	Ataque: 115	Defensa: 90	Ataq. Esp: 80	Def. Esp: 90	Velocidad: 60
+ 728 	Popplio 	HP: 50	Ataque: 54	Defensa: 54	Ataq. Esp: 66	Def. Esp: 56	Velocidad: 40
+ 729 	Brionne 	HP: 60	Ataque: 69	Defensa: 69	Ataq. Esp: 91	Def. Esp: 81	Velocidad: 50
+ 730 	Primarina 	HP: 80	Ataque: 74	Defensa: 74	Ataq. Esp: 126	Def. Esp: 116	Velocidad: 60
+ 731 	Pikipek 	HP: 35	Ataque: 75	Defensa: 30	Ataq. Esp: 30	Def. Esp: 30	Velocidad: 65
+ 732 	Trumbeak 	HP: 55	Ataque: 85	Defensa: 50	Ataq. Esp: 40	Def. Esp: 50	Velocidad: 75
+ 733 	Toucannon 	HP: 80	Ataque: 120	Defensa: 75	Ataq. Esp: 75	Def. Esp: 75	Velocidad: 60
+ 734 	Yungoos 	HP: 48	Ataque: 70	Defensa: 30	Ataq. Esp: 30	Def. Esp: 30	Velocidad: 45
+ 735 	Gumshoos 	HP: 88	Ataque: 110	Defensa: 60	Ataq. Esp: 55	Def. Esp: 60	Velocidad: 45
+ 736 	Grubbin 	HP: 47	Ataque: 62	Defensa: 45	Ataq. Esp: 55	Def. Esp: 45	Velocidad: 46
+ 737 	Charjabug 	HP: 57	Ataque: 82	Defensa: 95	Ataq. Esp: 55	Def. Esp: 75	Velocidad: 36
+ 738 	Vikavolt 	HP: 77	Ataque: 70	Defensa: 90	Ataq. Esp: 145	Def. Esp: 75	Velocidad: 43
+ 739 	Crabrawler 	HP: 47	Ataque: 82	Defensa: 57	Ataq. Esp: 42	Def. Esp: 47	Velocidad: 63
+ 740 	Crabominable 	HP: 97	Ataque: 132	Defensa: 77	Ataq. Esp: 62	Def. Esp: 67	Velocidad: 43
+ 741 	Oricorio 	HP: 75	Ataque: 70	Defensa: 70	Ataq. Esp: 98	Def. Esp: 70	Velocidad: 93
+ 742 	Cutiefly 	HP: 40	Ataque: 45	Defensa: 40	Ataq. Esp: 55	Def. Esp: 40	Velocidad: 84
+ 743 	Ribombee 	HP: 60	Ataque: 55	Defensa: 60	Ataq. Esp: 95	Def. Esp: 70	Velocidad: 124
+ 744 	Rockruff 	HP: 45	Ataque: 65	Defensa: 40	Ataq. Esp: 30	Def. Esp: 40	Velocidad: 60
+ 745 	Lycanroc (Midday Form) 	HP: 75	Ataque: 115	Defensa: 65	Ataq. Esp: 55	Def. Esp: 65	Velocidad: 112
+ 745 	Lycanroc (Midnight Form) 	HP: 85	Ataque: 115	Defensa: 75	Ataq. Esp: 55	Def. Esp: 75	Velocidad: 82
+ 745 	Lycanroc (Dusk Form) 	HP: 75	Ataque: 117	Defensa: 65	Ataq. Esp: 55	Def. Esp: 65	Velocidad: 110
+ 746 	Wishiwashi (Solo Form) 	HP: 45	Ataque: 20	Defensa: 20	Ataq. Esp: 25	Def. Esp: 25	Velocidad: 40
+ 746 	Wishiwashi (School Form) 	HP: 45	Ataque: 140	Defensa: 130	Ataq. Esp: 140	Def. Esp: 135	Velocidad: 30
+ 747 	Mareanie 	HP: 50	Ataque: 53	Defensa: 62	Ataq. Esp: 43	Def. Esp: 52	Velocidad: 45
+ 748 	Toxapex 	HP: 50	Ataque: 63	Defensa: 152	Ataq. Esp: 53	Def. Esp: 142	Velocidad: 35
+ 749 	Mudbray 	HP: 70	Ataque: 100	Defensa: 70	Ataq. Esp: 45	Def. Esp: 55	Velocidad: 45
+ 750 	Mudsdale 	HP: 100	Ataque: 125	Defensa: 100	Ataq. Esp: 55	Def. Esp: 85	Velocidad: 35
+ 751 	Dewpider 	HP: 38	Ataque: 40	Defensa: 52	Ataq. Esp: 40	Def. Esp: 72	Velocidad: 27
+ 752 	Araquanid 	HP: 68	Ataque: 70	Defensa: 92	Ataq. Esp: 50	Def. Esp: 132	Velocidad: 42
+ 753 	Fomantis 	HP: 40	Ataque: 55	Defensa: 35	Ataq. Esp: 50	Def. Esp: 35	Velocidad: 35
+ 754 	Lurantis 	HP: 70	Ataque: 105	Defensa: 90	Ataq. Esp: 80	Def. Esp: 90	Velocidad: 45
+ 755 	Morelull 	HP: 40	Ataque: 35	Defensa: 55	Ataq. Esp: 65	Def. Esp: 75	Velocidad: 15
+ 756 	Shiinotic 	HP: 60	Ataque: 45	Defensa: 80	Ataq. Esp: 90	Def. Esp: 100	Velocidad: 30
+ 757 	Salandit 	HP: 48	Ataque: 44	Defensa: 40	Ataq. Esp: 71	Def. Esp: 40	Velocidad: 77
+ 758 	Salazzle 	HP: 68	Ataque: 64	Defensa: 60	Ataq. Esp: 111	Def. Esp: 60	Velocidad: 117
+ 759 	Stufful 	HP: 70	Ataque: 75	Defensa: 50	Ataq. Esp: 45	Def. Esp: 50	Velocidad: 50
+ 760 	Bewear 	HP: 120	Ataque: 125	Defensa: 80	Ataq. Esp: 55	Def. Esp: 60	Velocidad: 60
+ 761 	Bounsweet 	HP: 42	Ataque: 30	Defensa: 38	Ataq. Esp: 30	Def. Esp: 38	Velocidad: 32
+ 762 	Steenee 	HP: 52	Ataque: 40	Defensa: 48	Ataq. Esp: 40	Def. Esp: 48	Velocidad: 62
+ 763 	Tsareena 	HP: 72	Ataque: 120	Defensa: 98	Ataq. Esp: 50	Def. Esp: 98	Velocidad: 72
+ 764 	Comfey 	HP: 51	Ataque: 52	Defensa: 90	Ataq. Esp: 82	Def. Esp: 110	Velocidad: 100
+ 765 	Oranguru 	HP: 90	Ataque: 60	Defensa: 80	Ataq. Esp: 90	Def. Esp: 110	Velocidad: 60
+ 766 	Passimian 	HP: 100	Ataque: 120	Defensa: 90	Ataq. Esp: 40	Def. Esp: 60	Velocidad: 80
+ 767 	Wimpod 	HP: 25	Ataque: 35	Defensa: 40	Ataq. Esp: 20	Def. Esp: 30	Velocidad: 80
+ 768 	Golisopod 	HP: 75	Ataque: 125	Defensa: 140	Ataq. Esp: 60	Def. Esp: 90	Velocidad: 40
+ 769 	Sandygast 	HP: 55	Ataque: 55	Defensa: 80	Ataq. Esp: 70	Def. Esp: 45	Velocidad: 15
+ 770 	Palossand 	HP: 85	Ataque: 75	Defensa: 110	Ataq. Esp: 100	Def. Esp: 75	Velocidad: 35
+ 771 	Pyukumuku 	HP: 55	Ataque: 60	Defensa: 130	Ataq. Esp: 30	Def. Esp: 130	Velocidad: 5
+ 772 	Type: Null 	HP: 95	Ataque: 95	Defensa: 95	Ataq. Esp: 95	Def. Esp: 95	Velocidad: 59
+ 773 	Silvally 	HP: 95	Ataque: 95	Defensa: 95	Ataq. Esp: 95	Def. Esp: 95	Velocidad: 95
+ 774 	Minior (Meteor Form) 	HP: 60	Ataque: 60	Defensa: 100	Ataq. Esp: 60	Def. Esp: 100	Velocidad: 60
+ 774 	Minior (Core Form) 	HP: 60	Ataque: 100	Defensa: 60	Ataq. Esp: 100	Def. Esp: 60	Velocidad: 120
+ 775 	Komala 	HP: 65	Ataque: 115	Defensa: 65	Ataq. Esp: 75	Def. Esp: 95	Velocidad: 65
+ 776 	Turtonator 	HP: 60	Ataque: 78	Defensa: 135	Ataq. Esp: 91	Def. Esp: 85	Velocidad: 36
+ 777 	Togedemaru 	HP: 65	Ataque: 98	Defensa: 63	Ataq. Esp: 40	Def. Esp: 73	Velocidad: 96
+ 778 	Mimikyu 	HP: 55	Ataque: 90	Defensa: 80	Ataq. Esp: 50	Def. Esp: 105	Velocidad: 96
+ 779 	Bruxish 	HP: 68	Ataque: 105	Defensa: 70	Ataq. Esp: 70	Def. Esp: 70	Velocidad: 92
+ 780 	Drampa 	HP: 78	Ataque: 60	Defensa: 85	Ataq. Esp: 135	Def. Esp: 91	Velocidad: 36
+ 781 	Dhelmise 	HP: 70	Ataque: 131	Defensa: 100	Ataq. Esp: 86	Def. Esp: 90	Velocidad: 40
+ 782 	Jangmo-o 	HP: 45	Ataque: 55	Defensa: 65	Ataq. Esp: 45	Def. Esp: 45	Velocidad: 45
+ 783 	Hakamo-o 	HP: 55	Ataque: 75	Defensa: 90	Ataq. Esp: 65	Def. Esp: 70	Velocidad: 65
+ 784 	Kommo-o 	HP: 75	Ataque: 110	Defensa: 125	Ataq. Esp: 100	Def. Esp: 105	Velocidad: 85
+ 785 	Tapu Koko 	HP: 70	Ataque: 115	Defensa: 85	Ataq. Esp: 95	Def. Esp: 75	Velocidad: 130
+ 786 	Tapu Lele 	HP: 70	Ataque: 85	Defensa: 75	Ataq. Esp: 130	Def. Esp: 115	Velocidad: 95
+ 787 	Tapu Bulu 	HP: 70	Ataque: 130	Defensa: 115	Ataq. Esp: 85	Def. Esp: 95	Velocidad: 75
+ 788 	Tapu Fini 	HP: 70	Ataque: 75	Defensa: 115	Ataq. Esp: 95	Def. Esp: 130	Velocidad: 85
+ 789 	Cosmog 	HP: 43	Ataque: 29	Defensa: 31	Ataq. Esp: 29	Def. Esp: 31	Velocidad: 37
+ 790 	Cosmoem 	HP: 43	Ataque: 29	Defensa: 131	Ataq. Esp: 29	Def. Esp: 131	Velocidad: 37
+ 791 	Solgaleo 	HP: 137	Ataque: 137	Defensa: 107	Ataq. Esp: 113	Def. Esp: 89	Velocidad: 97
+ 792 	Lunala 	HP: 137	Ataque: 113	Defensa: 89	Ataq. Esp: 137	Def. Esp: 107	Velocidad: 97
+ 793 	Nihilego 	HP: 109	Ataque: 53	Defensa: 47	Ataq. Esp: 127	Def. Esp: 131	Velocidad: 103
+ 794 	Buzzwole 	HP: 107	Ataque: 139	Defensa: 139	Ataq. Esp: 53	Def. Esp: 53	Velocidad: 79
+ 795 	Pheromosa 	HP: 71	Ataque: 137	Defensa: 37	Ataq. Esp: 137	Def. Esp: 37	Velocidad: 151
+ 796 	Xurkitree 	HP: 83	Ataque: 89	Defensa: 71	Ataq. Esp: 173	Def. Esp: 71	Velocidad: 83
+ 797 	Celesteela 	HP: 97	Ataque: 101	Defensa: 103	Ataq. Esp: 107	Def. Esp: 101	Velocidad: 61
+ 798 	Kartana 	HP: 59	Ataque: 181	Defensa: 131	Ataq. Esp: 59	Def. Esp: 31	Velocidad: 109
+ 799 	Guzzlord 	HP: 223	Ataque: 101	Defensa: 53	Ataq. Esp: 97	Def. Esp: 53	Velocidad: 43
+ 800 	Necrozma 	HP: 97	Ataque: 107	Defensa: 101	Ataq. Esp: 127	Def. Esp: 89	Velocidad: 79
+ 800 	Necrozma (Dusk Mane) 	HP: 97	Ataque: 157	Defensa: 127	Ataq. Esp: 113	Def. Esp: 109	Velocidad: 77
+ 800 	Necrozma (Dawn Wings) 	HP: 97	Ataque: 113	Defensa: 109	Ataq. Esp: 157	Def. Esp: 127	Velocidad: 77
+ 800 	Necrozma (Ultra Necrozma) 	HP: 97	Ataque: 167	Defensa: 97	Ataq. Esp: 167	Def. Esp: 97	Velocidad: 129
+ 801 	Magearna 	HP: 80	Ataque: 95	Defensa: 115	Ataq. Esp: 130	Def. Esp: 115	Velocidad: 65
+ 802 	Marshadow 	HP: 90	Ataque: 125	Defensa: 80	Ataq. Esp: 90	Def. Esp: 90	Velocidad: 125
+ 803 	Poipole 	HP: 67	Ataque: 73	Defensa: 67	Ataq. Esp: 73	Def. Esp: 67	Velocidad: 73
+ 804 	Naganadel 	HP: 73	Ataque: 73	Defensa: 73	Ataq. Esp: 127	Def. Esp: 73	Velocidad: 121
+ 805 	Stakataka 	HP: 61	Ataque: 131	Defensa: 211	Ataq. Esp: 53	Def. Esp: 101	Velocidad: 13
+ 806 	Blacephalon 	HP: 53	Ataque: 127	Defensa: 53	Ataq. Esp: 151	Def. Esp: 79	Velocidad: 107
+ 807 	Zeraora 	HP: 88	Ataque: 112	Defensa: 75	Ataq. Esp: 102	Def. Esp: 80	Velocidad: 143

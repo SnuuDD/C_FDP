@@ -1,0 +1,185 @@
+Luis Jesus Morales Juarez - A01703455
+
+Problema 1.
+
+Declarar como int n, cont, res;
+    cont=0;
+    res=0;
+    printf("Dame N: ")
+    scanf n
+    if(n>0)
+{
+        do
+        {
+            res=res+cont;
+            cont=cont+2;
+        }
+        while (cont<n+1);
+}
+    printf("El resultado es: %i",res);
+return (0);
+}
+
+Problema 2.
+
+Declarar como int L1, L2, L3;
+    printf("Dame el lado 1: ");
+    scanf L1
+     printf("Dame el lado 2: ");
+    scan L2
+     printf("Dame el lado 3: ");
+    scan L3
+    if (((L1+L2)>L3) && ((L2+L3)>L1) && ((L3+L2)>L1)&& (L1>0) && (L2>0) && (L3>0))
+    {
+        if ((L1 == L2 && L2 == L3))
+        {
+          printf("Triangulo Equilatero");
+        }
+        else
+             if ((L1 == L2 || L2 == L3 || L1 == L3))
+              printf("Triangulo Isoceles");
+             }
+
+             else
+                  if ((L1=!L2) && (L2=!L3))
+                      {printf("Triangulo Escaleno");
+    }
+
+    else
+        printf("No es triangulo");
+return 0;
+}
+
+Problema 3.
+int main()
+{
+    int down, up, res;
+    printf("Dame el la parte de arriba de la ficha ");
+    scanf("%i",&up);
+     printf("Dame el lado de abajo: ");
+    scanf("%i",&down);
+
+    if (up==0)
+    {
+        if(down<7){
+        res=0+down;
+        }
+        else
+         printf("La ficha no existe");
+        }
+        else
+        if (up==1){
+                if((down<7)&&(down>=1)){
+                    res=6+down;
+                    }
+                    else
+                        printf("La ficha no existe");
+                    }
+                    else
+        if (up==2)
+            {
+                if((down<7)&&(down>1)){
+                    res=11+down;
+                    }
+                    else
+                        printf("La ficha no existe");
+                    }
+                    else
+        if (up==3)
+            {
+                if((down<7)&&(down>2)){
+                    res=15+down;
+                    }
+                    else
+                        printf("La ficha no existe");
+                    }
+                    else
+        if (up==4)
+            {
+                if((down<7)&&(down>3)){
+                    res=18+down;
+                    }
+                    else
+                        printf("La ficha no existe");
+                    }
+                    else
+        if (up==5)
+            {
+                if((down<7)&&(down>4)){
+                    res=20+down;
+                    }
+                    else
+                        printf("La ficha no existe");
+                    }
+                    else
+        if (up==6)
+            {
+                if((down<7)&&(down>5)){
+                    res=21+down;
+                    }
+                    else
+                        printf("La ficha no existe");
+                    }
+                    else
+                        printf("La ficha no existe");
+
+
+
+printf("La posicion de la ficha es: %i",res);
+return 0;
+}
+
+Problema 4.
+
+int main(){
+	int inv = 0;
+	int num;
+    printf("Escribe el numero: ");
+	scanf("%i",&num);
+	while(num!=0){
+		inv=inv*10;
+		inv=inv+num%10;
+		num=num/10;
+	}
+	printf("Su numero inverso es %i",inv);
+	return 0;
+}
+
+Problema 5.
+
+Declarar  int num, div;
+
+   printf("Introduce el numero: ");
+   scan num
+    if(num==0)
+      Salir.
+
+   while(num=!0)
+   {
+    aux=num%2;
+   num=num/2;
+   Imprimir el caracter de num, hasta que salga del ciclo.
+   }
+   return 0;
+}
+
+Problema 6. 
+int main()
+{
+   int num;
+   printf("Introduce el numero: ");
+   scanf("%i",&num);
+   if(num<4 || num==5)
+       printf("El numero es primo");
+   else
+    if(((num/2)!=0)&&((num/3)!=0)&&((num/5)!=0))
+    {
+        printf("El numero es primo");
+    }
+     else
+   {
+   printf("El numero NO es primo");
+   }
+}
+
+
